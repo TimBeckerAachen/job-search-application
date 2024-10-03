@@ -1,0 +1,7 @@
+# selenium==4.25.0
+beautifulsoup4==4.10.0
+# numpy==2.1.1
+pandas==2.2.3
+# openai
+scikit-learn
+flask
