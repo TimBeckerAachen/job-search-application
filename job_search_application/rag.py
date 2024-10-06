@@ -2,7 +2,7 @@ from time import time
 from ai21 import AI21Client
 from ai21.models.chat import ChatMessage
 
-import ingest
+from job_search_application import ingest
 
 client = AI21Client()
 index = ingest.load_index()
@@ -83,7 +83,7 @@ def rag(query, model='jamba-1.5-mini'):
     t1 = time()
     delta_t = t1-t0
 
-    answer_data = {
+    response_data = {
         "response": response,
         "model_used": model,
         "response_time": delta_t,
@@ -99,4 +99,4 @@ def rag(query, model='jamba-1.5-mini'):
         # "eval_total_tokens": rel_token_stats["total_tokens"],
         # "openai_cost": openai_cost,
     }
-    return answer_data
+    return response_data

@@ -2,7 +2,8 @@ import uuid
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import Dict, Any
-from rag import rag
+
+from job_search_application.rag import rag
 # import db
 
 app = FastAPI()

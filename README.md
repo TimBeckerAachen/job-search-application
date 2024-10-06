@@ -27,3 +27,15 @@ Please create a virtual environment and install the requirements which are given
 ## Monitoring
 
 ## Ingestion
+
+## Docker help
+
+docker ps
+docker stop $(docker ps -aq) && docker rm $(docker ps -aq)
+
+docker ps -a
+docker logs id
+
+docker build -t job-search-app .
+docker run -it --rm -p 8000:8000 -e AI21_API_KEY=${AI21_API_KEY} job-search-app
+docker exec -it 07e4691c4a2f /bin/bash
