@@ -3,8 +3,9 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import Dict, Any
 
+import job_search_application.db as db
 from job_search_application.rag import rag
-# import db
+
 
 app = FastAPI()
 
@@ -32,11 +33,11 @@ async def handle_query(request: QueryRequest) -> Dict[str, Any]:
         "response": response_data["response"],
     }
 
-    # db.save_conversation(
-    #     conversation_id=conversation_id,
-    #     query=request.query,
-    #     response_data=response_data,
-    # )
+    db.save_conversation(
+        conversation_id=conversation_id,
+        query=request.query,
+        response_data=response_data,
+    )
 
     return result
 
@@ -46,10 +47,10 @@ async def handle_feedback(request: FeedbackRequest) -> Dict[str, str]:
     if request.feedback not in [1, -1]:
         raise HTTPException(status_code=400, detail="Invalid input")
 
-    # db.save_feedback(
-    #     conversation_id=request.conversation_id,
-    #     feedback=request.feedback,
-    # )
+    db.save_feedback(
+        conversation_id=request.conversation_id,
+        feedback=request.feedback,
+    )
 
     return {
         "message": f"Feedback received for conversation {request.conversation_id}: {request.feedback}"

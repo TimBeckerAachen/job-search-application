@@ -3,23 +3,52 @@ import psycopg2
 from psycopg2.extras import DictCursor
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
+from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
+
 
 RUN_TIMEZONE_CHECK = os.getenv('RUN_TIMEZONE_CHECK', '1') == '1'
-
 TZ_INFO = os.getenv("TZ", "Europe/Berlin")
 tz = ZoneInfo(TZ_INFO)
+
+
+def create_db_if_not_exists():
+    print(os.getenv("POSTGRES_HOST", "localhost"))
+    conn = psycopg2.connect(
+        host=os.getenv("POSTGRES_HOST", "localhost"),
+        database="postgres",
+        user=os.getenv("POSTGRES_USER", "username"),
+        password=os.getenv("POSTGRES_PASSWORD", "password"),
+    )
+    conn.set_isolation_level(ISOLATION_LEVEL_AUTOCOMMIT)
+
+    try:
+        with conn.cursor() as cur:
+            # Check if the database exists
+            cur.execute("SELECT 1 FROM pg_catalog.pg_database WHERE datname = %s",
+                        (os.getenv("POSTGRES_DB", "job_search_application"),))
+            exists = cur.fetchone()
+
+            if not exists:
+                # Create the database
+                cur.execute(f"CREATE DATABASE {os.getenv('POSTGRES_DB', 'job_search_application')}")
+                print(f"Database '{os.getenv('POSTGRES_DB', 'job_search_application')}' created successfully.")
+            else:
+                print(f"Database '{os.getenv('POSTGRES_DB', 'job_search_application')}' already exists.")
+    finally:
+        conn.close()
 
 
 def get_db_connection():
     return psycopg2.connect(
         host=os.getenv("POSTGRES_HOST", "postgres"),
-        database=os.getenv("POSTGRES_DB", "course_assistant"),
-        user=os.getenv("POSTGRES_USER", "your_username"),
-        password=os.getenv("POSTGRES_PASSWORD", "your_password"),
+        database=os.getenv("POSTGRES_DB", "job_search_application"),
+        user=os.getenv("POSTGRES_USER", "username"),
+        password=os.getenv("POSTGRES_PASSWORD", "password"),
     )
 
 
 def init_db():
+    create_db_if_not_exists()
     conn = get_db_connection()
     try:
         with conn.cursor() as cur:
@@ -27,38 +56,24 @@ def init_db():
             cur.execute("DROP TABLE IF EXISTS conversations")
 
             cur.execute("""
-                  CREATE TABLE conversations (
-                      id TEXT PRIMARY KEY,
-                      query TEXT NOT NULL,
-                      response TEXT NOT NULL,
-                      model_used TEXT NOT NULL,
-                      response_time FLOAT NOT NULL,
-                      prompt_tokens INTEGER NOT NULL,
-                      completion_tokens INTEGER NOT NULL,
-                      total_tokens INTEGER NOT NULL,
-                      timestamp TIMESTAMP WITH TIME ZONE NOT NULL
-                  )
-              """)
-
-            # cur.execute("""
-            #     CREATE TABLE conversations (
-            #         id TEXT PRIMARY KEY,
-            #         query TEXT NOT NULL,
-            #         response TEXT NOT NULL,
-            #         model_used TEXT NOT NULL,
-            #         response_time FLOAT NOT NULL,
-            #         relevance TEXT NOT NULL,
-            #         relevance_explanation TEXT NOT NULL,
-            #         prompt_tokens INTEGER NOT NULL,
-            #         completion_tokens INTEGER NOT NULL,
-            #         total_tokens INTEGER NOT NULL,
-            #         eval_prompt_tokens INTEGER NOT NULL,
-            #         eval_completion_tokens INTEGER NOT NULL,
-            #         eval_total_tokens INTEGER NOT NULL,
-            #         openai_cost FLOAT NOT NULL,
-            #         timestamp TIMESTAMP WITH TIME ZONE NOT NULL
-            #     )
-            # """)
+                CREATE TABLE conversations (
+                    id TEXT PRIMARY KEY,
+                    query TEXT NOT NULL,
+                    response TEXT NOT NULL,
+                    model_used TEXT NOT NULL,
+                    response_time FLOAT NOT NULL,
+                    relevance TEXT NOT NULL,
+                    relevance_explanation TEXT NOT NULL,
+                    prompt_tokens INTEGER NOT NULL,
+                    completion_tokens INTEGER NOT NULL,
+                    total_tokens INTEGER NOT NULL,
+                    eval_prompt_tokens INTEGER NOT NULL,
+                    eval_completion_tokens INTEGER NOT NULL,
+                    eval_total_tokens INTEGER NOT NULL,
+                    a21_cost FLOAT NOT NULL,
+                    timestamp TIMESTAMP WITH TIME ZONE NOT NULL
+                )
+            """)
             cur.execute("""
                 CREATE TABLE feedback (
                     id SERIAL PRIMARY KEY,
@@ -80,36 +95,29 @@ def save_conversation(conversation_id, query, response_data, timestamp=None):
     try:
         with conn.cursor() as cur:
             cur.execute(
-                #"""
-                #INSERT INTO conversations
-                #(id, query, response, model_used, response_time, relevance,
-                #relevance_explanation, prompt_tokens, completion_tokens, total_tokens,
-                #eval_prompt_tokens, eval_completion_tokens, eval_total_tokens, openai_cost, timestamp)
-                #VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-                #"",
                 """
-                INSERT INTO conversations 
-                (id, query, response, model_used, response_time, 
-                prompt_tokens, completion_tokens, total_tokens, 
-                timestamp)
-                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+                INSERT INTO conversations
+                (id, query, response, model_used, response_time, relevance,
+                relevance_explanation, prompt_tokens, completion_tokens, total_tokens,
+                eval_prompt_tokens, eval_completion_tokens, eval_total_tokens, a21_cost, timestamp)
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 """,
 
                 (
                     conversation_id,
                     query,
-                    response_data["answer"],
+                    response_data["response"],
                     response_data["model_used"],
                     response_data["response_time"],
-                    # response_data["relevance"],
-                    # response_data["relevance_explanation"],
+                    response_data["relevance"],
+                    response_data["relevance_explanation"],
                     response_data["prompt_tokens"],
                     response_data["completion_tokens"],
                     response_data["total_tokens"],
-                    # response_data["eval_prompt_tokens"],
-                    # response_data["eval_completion_tokens"],
-                    # response_data["eval_total_tokens"],
-                    # response_data["openai_cost"],
+                    response_data["eval_prompt_tokens"],
+                    response_data["eval_completion_tokens"],
+                    response_data["eval_total_tokens"],
+                    response_data["a21_cost"],
                     timestamp
                 ),
             )
@@ -187,27 +195,16 @@ def check_timezone():
             print(f"Python current time: {py_time}")
 
             # Use py_time instead of tz for insertion
-            #cur.execute("""
-            #    INSERT INTO conversations
-            #    (id, query, response, model_used, response_time, relevance,
-            #    relevance_explanation, prompt_tokens, completion_tokens, total_tokens,
-            #    eval_prompt_tokens, eval_completion_tokens, eval_total_tokens, openai_cost, timestamp)
-            #    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
-            #    RETURNING timestamp;
-            #""",
             cur.execute("""
-                INSERT INTO conversations 
-                (id, query, response, model_used, response_time,
-                prompt_tokens, completion_tokens, total_tokens, 
-                timestamp)
-                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
-                RETURNING timestamp;
+               INSERT INTO conversations
+               (id, query, response, model_used, response_time, relevance,
+               relevance_explanation, prompt_tokens, completion_tokens, total_tokens,
+               eval_prompt_tokens, eval_completion_tokens, eval_total_tokens, a21_cost, timestamp)
+               VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+               RETURNING timestamp;
             """,
-            #('test', 'test query', 'test response', 'test model', 0.0, 0.0,
-            # 'test explanation', 0, 0, 0, 0, 0, 0, 0.0, py_time))
-            ('test', 'test query', 'test response', 'test model', 0.0,
-             0, 0, 0, py_time))
-
+            ('test', 'test query', 'test response', 'test model', 0.0, 0.0,
+            'test explanation', 0, 0, 0, 0, 0, 0, 0.0, py_time))
             inserted_time = cur.fetchone()[0]
             print(f"Inserted time (UTC): {inserted_time}")
             print(f"Inserted time ({TZ_INFO}): {inserted_time.astimezone(tz)}")

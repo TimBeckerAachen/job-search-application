@@ -1,3 +1,4 @@
+import json
 from time import time
 from ai21 import AI21Client
 from ai21.models.chat import ChatMessage
@@ -72,31 +73,86 @@ def llm(prompt, model='jamba-1.5-mini'):
     return response.choices[0].message.content, token_stats
 
 
+evaluation_prompt_template = """
+You are an expert evaluator for a RAG system.
+Your task is to analyze the relevance of the generated response to the given queries.
+Based on the relevance of the generated answer, you will classify it
+as "NON_RELEVANT", "PARTLY_RELEVANT", or "RELEVANT".
+
+Here is the data for evaluation:
+
+Query: {query}
+Response: {response}
+
+Please analyze the content and context of the generated response in relation to the query
+and provide your evaluation in parsable JSON without using code blocks:
+
+{{
+  "Relevance": "NON_RELEVANT" | "PARTLY_RELEVANT" | "RELEVANT",
+  "Explanation": "[Provide a very brief explanation for your evaluation]"
+}}
+""".strip()
+
+
+def evaluate_relevance(query, response_llm):
+    evaluation_prompt = evaluation_prompt_template.format(
+        query=query,
+        response=response_llm
+    )
+    evaluation_llm, token_stats = llm(evaluation_prompt)
+
+    try:
+        json_eval = json.loads(evaluation_llm)
+    except json.JSONDecodeError:
+        json_eval = {"Relevance": "UNKNOWN", "Explanation": "Failed to parse evaluation"}
+    return json_eval, token_stats
+
+
+def calculate_a21_cost(model, tokens):
+    cost = 0
+
+    if model == "jamba-1.5-mini":
+        cost = (
+            tokens["prompt_tokens"] * 0.2 + tokens["completion_tokens"] * 0.4
+        ) / 1e6
+    elif model == "jamba-1.5-large":
+        cost = (
+            tokens["prompt_tokens"] * 2 + tokens["completion_tokens"] * 8
+        ) / 1e6
+    else:
+        print("Model not recognized. AI21 cost calculation failed.")
+
+    return cost
+
+
 def rag(query, model='jamba-1.5-mini'):
     t0 = time()
     search_results = search(query)
     prompt = build_prompt(query, search_results)
     response, token_stats = llm(prompt, model=model)
 
-    # TODO: add evaluation?
+    relevance, rel_token_stats = evaluate_relevance(query, response)
 
     t1 = time()
     delta_t = t1-t0
+
+    a21_cost_rag = calculate_a21_cost(model, token_stats)
+    a21_cost_eval = calculate_a21_cost(model, rel_token_stats)
+
+    a21_cost = a21_cost_rag + a21_cost_eval
 
     response_data = {
         "response": response,
         "model_used": model,
         "response_time": delta_t,
-        # "relevance": relevance.get("Relevance", "UNKNOWN"),
-        # "relevance_explanation": relevance.get(
-        #     "Explanation", "Failed to parse evaluation"
-        # ),
+        "relevance": relevance.get("Relevance", "UNKNOWN"),
+        "relevance_explanation": relevance.get("Explanation", "Failed to parse evaluation"),
         "prompt_tokens": token_stats["prompt_tokens"],
         "completion_tokens": token_stats["completion_tokens"],
         "total_tokens": token_stats["total_tokens"],
-        # "eval_prompt_tokens": rel_token_stats["prompt_tokens"],
-        # "eval_completion_tokens": rel_token_stats["completion_tokens"],
-        # "eval_total_tokens": rel_token_stats["total_tokens"],
-        # "openai_cost": openai_cost,
+        "eval_prompt_tokens": rel_token_stats["prompt_tokens"],
+        "eval_completion_tokens": rel_token_stats["completion_tokens"],
+        "eval_total_tokens": rel_token_stats["total_tokens"],
+        "a21_cost": a21_cost,
     }
     return response_data
