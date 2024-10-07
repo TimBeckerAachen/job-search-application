@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "question": "What qualifications and experience are required for the Mechatroniker/Elektroniker position at Novapax Kunststofftechnik?"
+  },
+  {
+    "id": 1,
+    "question": "What are the main tasks involved in the automation processes for the Mechatroniker/Elektroniker role in Berlin?"
+  },
+  {
+    "id": 1,
+    "question": "Does the Mechatroniker/Elektroniker position at Novapax require experience with specific systems like MES and ERP?"
+  },
+  {
+    "id": 1,
+    "question": "What additional benefits does Novapax Kunststofftechnik offer for the Mechatroniker/Elektroniker role besides salary?"
+  },
+  {
+    "id": 1,
+    "question": "Is prior experience in Kunststoffspritzguss production necessary for the Mechatroniker/Elektroniker position at Novapax?"
+  },
+  {
+    "id": 2,
+    "question": "What specific tools should I be familiar with for the CRM Lead role at FORMEL SKIN in Berlin?"
+  },
+  {
+    "id": 2,
+    "question": "What experience is emphasized as important for the CRM Lead position regarding the customer lifecycle?"
+  },
+  {
+    "id": 2,
+    "question": "How many years of experience in lifecycle marketing are required for the CRM Lead position at FORMEL SKIN?"
+  },
+  {
+    "id": 2,
+    "question": "What kind of benefits does FORMEL SKIN offer for the CRM Lead position, including vacation days and remote work options?"
+  },
+  {
+    "id": 2,
+    "question": "What role does the CRM Lead at FORMEL SKIN play in driving customer engagement and loyalty?"
+  },
+  {
+    "id": 3,
+    "question": "What responsibilities does the Principal Product Manager have related to the long-term roadmap for carrier network configurations at Zalando?"
+  },
+  {
+    "id": 3,
+    "question": "Which teams will the Principal Product Manager collaborate with to develop new sorting and injection solutions at Zalando?"
+  },
+  {
+    "id": 3,
+    "question": "What experience is expected from candidates in terms of product ownership and scalability for the Principal Product Manager role at Zalando?"
+  },
+  {
+    "id": 3,
+    "question": "How does Zalando's inclusive hiring process reflect in the job application requirements for the Principal Product Manager position?"
+  },
+  {
+    "id": 3,
+    "question": "What network configuration approaches are mentioned to improve delivery speed for Zalando customers in this role?"
+  },
+  {
+    "id": 4,
+    "question": "What are the primary responsibilities of the Process Integration Lead at Ardo related to SAP deployment and process design?"
+  },
+  {
+    "id": 4,
+    "question": "What experience and qualifications are required for the Process Integration Lead role at Ardo, particularly in SAP platforms?"
+  },
+  {
+    "id": 4,
+    "question": "How does the Process Integration Lead at Ardo interact with the Master Data team during the migration to SAP S/4HANA?"
+  },
+  {
+    "id": 4,
+    "question": "What are the expectations for the Process Integration Lead regarding the SAP Golden Template and standard SAP best practices at Ardo?"
+  },
+  {
+    "id": 4,
+    "question": "What opportunities for remote work and professional development does Ardo offer for the Process Integration Lead position?"
+  },
+  {
+    "id": 5,
+    "question": "What are the main technical skills required for the Lead Analytics Engineer, Marketing role at Vinted in Berlin?"
+  },
+  {
+    "id": 5,
+    "question": "What specific experience is needed in marketing data analytics and reporting for this Lead Analytics Engineer position?"
+  },
+  {
+    "id": 5,
+    "question": "How many days of paid annual leave are offered for the Lead Analytics Engineer, Marketing role at Vinted?"
+  },
+  {
+    "id": 5,
+    "question": "What are the key responsibilities for leading technical projects in the Marketing Data Science and Analytics domain at Vinted?"
+  },
+  {
+    "id": 5,
+    "question": "What professional development support does Vinted provide for the Lead Analytics Engineer, Marketing role?"
+  },
+  {
+    "id": 6,
+    "question": "What industry experience is preferred for the Lead Data Scientist role at Almedia?"
+  },
+  {
+    "id": 6,
+    "question": "Which programming languages and technologies are essential for this Lead Data Scientist position?"
+  },
+  {
+    "id": 6,
+    "question": "What kind of work environment can candidates expect if they join the team in Berlin?"
+  },
+  {
+    "id": 6,
+    "question": "What are the main responsibilities of the Lead Data Scientist at Almedia regarding machine learning models?"
+  },
+  {
+    "id": 6,
+    "question": "What statistical skills are required for the Lead Data Scientist role at Almedia?"
+  },
+  {
+    "id": 7,
+    "question": "What degree is required for the Lead Workforce Management position at SumUp?"
+  },
+  {
+    "id": 7,
+    "question": "How many years of experience in workforce management are needed for this role?"
+  },
+  {
+    "id": 7,
+    "question": "What software tools are preferred for workforce management in this position?"
+  },
+  {
+    "id": 7,
+    "question": "What benefits are offered after completing 3 years of employment at SumUp?"
+  },
+  {
+    "id": 7,
+    "question": "What is the annual budget provided for learning and development in this role?"
+  },
+  {
+    "id": 8,
+    "question": "What platforms will the Social Media Lead at Lounge by Zalando be responsible for managing?"
+  },
+  {
+    "id": 8,
+    "question": "How many years of social media management experience are required for this Social Media Lead role at Zalando?"
+  },
+  {
+    "id": 8,
+    "question": "What teams will the Social Media Lead collaborate with according to the job description for Lounge by Zalando?"
+  },
+  {
+    "id": 8,
+    "question": "What type of content should the Social Media Lead at Zalando focus on creating for Instagram and TikTok?"
+  },
+  {
+    "id": 8,
+    "question": "What tools or skills are mentioned as necessary for the Social Media Lead to track performance and optimize social media strategies at Zalando?"
+  },
+  {
+    "id": 9,
+    "question": "What experience is required for the Go-to-Market Lead Life Sciences role at Capgemini Deutschland?"
+  },
+  {
+    "id": 9,
+    "question": "Where is the work location for the Go-to-Market Lead Life Sciences position posted on 2024-07-24?"
+  },
+  {
+    "id": 9,
+    "question": "What type of degree is preferred for the Go-to-Market Lead Life Sciences position at Capgemini?"
+  },
+  {
+    "id": 9,
+    "question": "What responsibilities will the Go-to-Market Lead Life Sciences have regarding business development and data analytics projects?"
+  },
+  {
+    "id": 9,
+    "question": "Who can be contacted for questions about the Go-to-Market Lead Life Sciences role, and how can they be reached?"
+  },
+  {
+    "id": 10,
+    "question": "What specific language skills are required for the Sales Team Leader position at Tonitrus GmbH?"
+  },
+  {
+    "id": 10,
+    "question": "How many years of experience in B2B sales are needed for this job role?"
+  },
+  {
+    "id": 10,
+    "question": "What kind of projects will the Sales Team Leader work on related to the Circular Economy?"
+  },
+  {
+    "id": 10,
+    "question": "What are the key responsibilities associated with supporting the Italian sales team?"
+  },
+  {
+    "id": 10,
+    "question": "What benefits and opportunities for development does Tonitrus GmbH offer to its employees?"
+  },
+  {
+    "id": 11,
+    "question": "What are the main responsibilities of the Revenue Strategy Lead Analyst role at Remerge?"
+  },
+  {
+    "id": 11,
+    "question": "Which data analysis tools are essential for this position at Remerge?"
+  },
+  {
+    "id": 11,
+    "question": "How does the Revenue Strategy Lead Analyst contribute to quarterly business reviews?"
+  },
+  {
+    "id": 11,
+    "question": "What qualifications and skills are necessary for a candidate applying for this job at Remerge?"
+  },
+  {
+    "id": 11,
+    "question": "What benefits and work environment can a candidate expect when working at Remerge?"
+  },
+  {
+    "id": 12,
+    "question": "What are the main responsibilities of the Lead Game Product Manager at Justplay GmbH?"
+  },
+  {
+    "id": 12,
+    "question": "How many years of experience are required for the Lead Game Product Manager position?"
+  },
+  {
+    "id": 12,
+    "question": "What skills are highlighted as necessary for this role?"
+  },
+  {
+    "id": 12,
+    "question": "Where is the job located, and are there options for remote work?"
+  },
+  {
+    "id": 12,
+    "question": "What benefits does Justplay GmbH offer to its employees?"
+  },
+  {
+    "id": 13,
+    "question": "What are the primary responsibilities of the Senior Data Engineer at Hive Technologies GmbH?"
+  },
+  {
+    "id": 13,
+    "question": "What programming languages and tools should candidates be proficient in for this position?"
+  },
+  {
+    "id": 13,
+    "question": "What unique qualities does Hive Technologies GmbH promote in its work culture?"
+  },
+  {
+    "id": 13,
+    "question": "What specific benefits are offered to full-time team members at Hive Technologies GmbH?"
+  },
+  {
+    "id": 13,
+    "question": "What is the company's mission regarding commerce operations and how does it support its clients?"
+  },
+  {
+    "id": 14,
+    "question": "What specific leadership qualities are essential for the Team Lead Technical Support role at Parloa?"
+  },
+  {
+    "id": 14,
+    "question": "What types of experience are required for candidates applying to the Team Lead Technical Support position?"
+  },
+  {
+    "id": 14,
+    "question": "Can you describe the work environment and culture at Parloa for the Team Lead Technical Support role?"
+  },
+  {
+    "id": 14,
+    "question": "What benefits and support does Parloa offer to employees in the Team Lead Technical Support position?"
+  },
+  {
+    "id": 14,
+    "question": "What is the process for recruiting candidates for the Team Lead Technical Support role at Parloa?"
+  },
+  {
+    "id": 15,
+    "question": "What specific responsibilities does the CoE Lead Manufacturing & Quality role involve regarding budget planning and resource management?"
+  },
+  {
+    "id": 15,
+    "question": "What qualifications and prior experience are required for candidates applying for this position?"
+  },
+  {
+    "id": 15,
+    "question": "How does the All for One Group SE support employee development and training opportunities?"
+  },
+  {
+    "id": 15,
+    "question": "What flexible working options and vacation benefits are offered to employees in this role?"
+  },
+  {
+    "id": 15,
+    "question": "What is the company culture like, particularly in terms of collaboration and employee support?"
+  },
+  {
+    "id": 16,
+    "question": "What degree is required for the Senior Expert, Tech Lead Solution Delivery position at Fresenius Medical Care?"
+  },
+  {
+    "id": 16,
+    "question": "How many years of relevant work experience are needed for this role?"
+  },
+  {
+    "id": 16,
+    "question": "Which programming languages should candidates be proficient in for this job?"
+  },
+  {
+    "id": 16,
+    "question": "What responsibilities does the Tech Lead have in terms of collaborating with other teams?"
+  },
+  {
+    "id": 16,
+    "question": "What type of corporate culture and benefits does Fresenius Medical Care offer for this position?"
+  },
+  {
+    "id": 17,
+    "question": "What are the main responsibilities associated with the Customer Engineering Improvement Project Lead position at Air Products PLC?"
+  },
+  {
+    "id": 17,
+    "question": "What qualifications are required for the Customer Engineering Improvement Project Lead role in Berlin?"
+  },
+  {
+    "id": 17,
+    "question": "Can you specify the percentage of travel expected for the Customer Engineering Improvement Project Lead position?"
+  },
+  {
+    "id": 17,
+    "question": "What skills are highlighted as essential for the Customer Engineering Improvement Project Lead role?"
+  },
+  {
+    "id": 17,
+    "question": "What opportunities for growth and development does Air Products offer for this position?"
+  }
+]
