@@ -1,5 +1,6 @@
 import time
 import json
+import random
 import requests
 from typing import List, Dict
 from bs4 import BeautifulSoup
@@ -8,7 +9,8 @@ from bs4 import BeautifulSoup
 def parse_jobtensor_jobs() -> List[Dict[str, str]]:
     # TODO: provide filter
     # TODO: standard interface
-    url = "https://jobtensor.com/search?q=data&m=Lead,Principal&l=Berlin"
+    # url = "https://jobtensor.com/search?q=data&m=Lead,Principal&l=Berlin"
+    url = "https://jobtensor.com/search?q=data&o=Data+Scientist,Data+Engineer&l=Berlin"
 
     json_data = get_dict_from_url(url)
 
@@ -17,7 +19,7 @@ def parse_jobtensor_jobs() -> List[Dict[str, str]]:
     num_pages = int(total_jobs / per_page) + (total_jobs % per_page > 0)
     print(f'Total number of pages {num_pages}')
     job_list = []
-    index = 1
+    index = 18
 
     for page_num in range(num_pages):
         print(page_num)
@@ -27,7 +29,7 @@ def parse_jobtensor_jobs() -> List[Dict[str, str]]:
 
         job_hits = json_data['hits']
 
-        for job in job_hits[:2]:
+        for job in job_hits:
             job_dict = {
                 "id": index,
                 "title": job["title"],
@@ -46,7 +48,7 @@ def parse_jobtensor_jobs() -> List[Dict[str, str]]:
 
             job_list.append(job_dict)
             index += 1
-            time.sleep(5)
+            time.sleep(random.randint(1, 10))
 
     return job_list
 

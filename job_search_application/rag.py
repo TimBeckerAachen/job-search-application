@@ -10,7 +10,16 @@ index = ingest.load_index()
 
 
 def search(query):
-    boost = {}
+    boost = {
+      'title': 1.24,
+      'company': 1.2,
+      'locations': 2.91,
+      'skills': 1.05,
+      'posted_at': 2.09,
+      'is_remote': 0.83,
+      'snippet_fragments': 0.56,
+      'description': 2.18
+    }
 
     results = index.search(
         query=query,

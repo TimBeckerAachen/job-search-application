@@ -145,6 +145,20 @@ The python code is organised as a python package in the [`job_search_application
 
 ### Retrieval evaluation
 
+Unfortunately, the search was a bit challenging, since many questions are similar and the quality of the
+questions was limited. The found parameters for minsearch are:
+
+    boost = {
+      'title': 1.24,
+      'company': 1.2,
+      'locations': 2.91,
+      'skills': 1.05,
+      'posted_at': 2.09,
+      'is_remote': 0.83,
+      'snippet_fragments': 0.56,
+      'description': 2.18
+    }
+
 ### RAG evaluation
 
 ## Monitoring

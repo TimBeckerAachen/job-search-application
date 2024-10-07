@@ -338,5 +338,2985 @@
   {
     "id": 17,
     "question": "What opportunities for growth and development does Air Products offer for this position?"
+  },
+  {
+    "id": 18,
+    "question": "What are the primary responsibilities of the Lead Data Engineer at Almedia?"
+  },
+  {
+    "id": 18,
+    "question": "Which technologies and tools does the Lead Data Engineer at Almedia primarily work with?"
+  },
+  {
+    "id": 18,
+    "question": "What is the minimum experience required for the Lead Data Engineer position at Almedia?"
+  },
+  {
+    "id": 18,
+    "question": "What specific skills are highlighted for the Lead Data Engineer role at Almedia?"
+  },
+  {
+    "id": 18,
+    "question": "What benefits does Almedia offer to the Lead Data Engineer?"
+  },
+  {
+    "id": 19,
+    "question": "What educational background is required for the (Senior) Fraud Data Scientist / Data Analyst position at Digital Charging Solutions GmbH?"
+  },
+  {
+    "id": 19,
+    "question": "What are the highlighted skills for the (Senior) Fraud Data Scientist / Data Analyst position at Digital Charging Solutions GmbH?"
+  },
+  {
+    "id": 19,
+    "question": "What programming languages are necessary for the (Senior) Fraud Data Scientist / Data Analyst position at Digital Charging Solutions GmbH?"
+  },
+  {
+    "id": 19,
+    "question": "What work locations are available for the (Senior) Fraud Data Scientist / Data Analyst position at Digital Charging Solutions GmbH?"
+  },
+  {
+    "id": 19,
+    "question": "What benefits does Digital Charging Solutions GmbH offer for the (Senior) Fraud Data Scientist / Data Analyst position?"
+  },
+  {
+    "id": 20,
+    "question": "What are the key responsibilities of the Data Engineer role at unybrands?"
+  },
+  {
+    "id": 20,
+    "question": "Which programming languages and tools are required for this position?"
+  },
+  {
+    "id": 20,
+    "question": "What kind of data architecture and modeling experience is needed?"
+  },
+  {
+    "id": 20,
+    "question": "What specific databases and data warehousing concepts should the candidate be familiar with?"
+  },
+  {
+    "id": 20,
+    "question": "What are the main data privacy and compliance regulations relevant to this job?"
+  },
+  {
+    "id": 21,
+    "question": "What is the role of a Data Scientist at Plato?"
+  },
+  {
+    "id": 21,
+    "question": "What kind of models will the Data Scientist at Plato be developing?"
+  },
+  {
+    "id": 21,
+    "question": "What is the hiring process for the Data Scientist position at Cherry Ventures?"
+  },
+  {
+    "id": 21,
+    "question": "What are the working conditions for the Data Scientist at Cherry Ventures?"
+  },
+  {
+    "id": 21,
+    "question": "What are the core values of Cherry Ventures?"
+  },
+  {
+    "id": 22,
+    "question": "What is the role of a Data Scientist at Plato in Cherry Ventures?"
+  },
+  {
+    "id": 22,
+    "question": "What are the key responsibilities of a Data Scientist at Plato?"
+  },
+  {
+    "id": 22,
+    "question": "What is the hiring process for the Data Scientist position at Cherry Ventures?"
+  },
+  {
+    "id": 22,
+    "question": "What tools and technologies will the Data Scientist at Plato be using?"
+  },
+  {
+    "id": 22,
+    "question": "What are the primary industries that the Data Scientist at Plato will be working with?"
+  },
+  {
+    "id": 23,
+    "question": "What are the main technologies and platforms I will be working with as a Data Engineer at EXXETA?"
+  },
+  {
+    "id": 23,
+    "question": "Can you provide more details on the types of projects I will be involved in, particularly those related to data warehousing and cloud migration?"
+  },
+  {
+    "id": 23,
+    "question": "What are the expectations regarding my proficiency with Microsoft Azure Cloud services and tools like Azure Data Factory, Azure Databricks, and Azure Data Lake?"
+  },
+  {
+    "id": 23,
+    "question": "How does EXXETA support continuous learning and professional growth for its employees, specifically in the context of data engineering and cloud technologies?"
+  },
+  {
+    "id": 23,
+    "question": "What measures does EXXETA take to ensure a healthy work-life balance and support employee well-being?"
+  },
+  {
+    "id": 24,
+    "question": "What kind of projects will I be working on as a Senior Data Engineer at diconium group?"
+  },
+  {
+    "id": 24,
+    "question": "How does diconium group ensure data quality and governance in their projects?"
+  },
+  {
+    "id": 24,
+    "question": "What are the core values and working environment like at diconium group?"
+  },
+  {
+    "id": 24,
+    "question": "Can you provide examples of the types of clients diconium group has worked with?"
+  },
+  {
+    "id": 24,
+    "question": "What specific cloud platforms and big data technologies will I be working with?"
+  },
+  {
+    "id": 25,
+    "question": "What specific technologies are required for designing and building ETL pipelines in this role at admi?"
+  },
+  {
+    "id": 25,
+    "question": "How does admi ensure data governance, security, and privacy regulations are followed in their data operations?"
+  },
+  {
+    "id": 25,
+    "question": "Can you elaborate on how the role contributes to the kommunale Energiewende and CO2-Neutralit\u00e4t through Photovoltaikausbau?"
+  },
+  {
+    "id": 25,
+    "question": "What opportunities for flexible working and further training does admi provide to its employees?"
+  },
+  {
+    "id": 25,
+    "question": "How does admi's technology-driven approach and process excellence accelerate Kommunen's autonomous energy supply and CO2-Neutralit\u00e4t within weeks?"
+  },
+  {
+    "id": 26,
+    "question": "What is Vay's approach to autonomous driving?"
+  },
+  {
+    "id": 26,
+    "question": "What responsibilities will the Data Scientist have at Vay?"
+  },
+  {
+    "id": 26,
+    "question": "What are the values that Vay stands by?"
+  },
+  {
+    "id": 26,
+    "question": "What benefits does Vay offer to its employees?"
+  },
+  {
+    "id": 26,
+    "question": "What kind of team will the Data Scientist be joining at Vay?"
+  },
+  {
+    "id": 27,
+    "question": "What are the primary responsibilities of the (Senior) DevOps Engineer - Data Analytics & Management Plattform at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 27,
+    "question": "What specific technologies and tools will I be working with in this role?"
+  },
+  {
+    "id": 27,
+    "question": "What type of projects or tasks will I be involved in regarding the PLAIN platform?"
+  },
+  {
+    "id": 27,
+    "question": "How does the role contribute to the political decision-making process through data analytics?"
+  },
+  {
+    "id": 27,
+    "question": "What are the requirements for expertise in OpenStack and OpenShift for this position?"
+  },
+  {
+    "id": 28,
+    "question": "What are the core responsibilities of the Senior Data Scientist at Justplay GmbH?"
+  },
+  {
+    "id": 28,
+    "question": "What kind of experience and skills in Machine Learning and Statistical Analysis are required for this position?"
+  },
+  {
+    "id": 28,
+    "question": "How does Justplay GmbH support work-life balance and flexibility for its employees?"
+  },
+  {
+    "id": 28,
+    "question": "What opportunities for training and development does Justplay GmbH provide?"
+  },
+  {
+    "id": 28,
+    "question": "What specific tools and platforms, particularly in cloud computing and data analysis, should the candidate be proficient in?"
+  },
+  {
+    "id": 29,
+    "question": "What is the mission of Flink as a company?"
+  },
+  {
+    "id": 29,
+    "question": "How does Flink contribute to sustainability?"
+  },
+  {
+    "id": 29,
+    "question": "What are some of the responsibilities of a Junior Data Scientist at Flink?"
+  },
+  {
+    "id": 29,
+    "question": "What qualifications are required for the Junior Data Scientist position?"
+  },
+  {
+    "id": 29,
+    "question": "What benefits does Flink offer to its employees?"
+  },
+  {
+    "id": 30,
+    "question": "What advanced data modelling techniques using Python and SQL will I be applying in this role at SellerX?"
+  },
+  {
+    "id": 30,
+    "question": "Can you elaborate on how you aim to improve the accuracy and automation of pricing and forecasting methodologies at SellerX?"
+  },
+  {
+    "id": 30,
+    "question": "How does SellerX approach real-time testing to gauge the impact of pricing and promotion strategies on sales and profitability?"
+  },
+  {
+    "id": 30,
+    "question": "What kinds of one-off analyses might I be leading for the leadership team, including the CCO and CEO, at SellerX?"
+  },
+  {
+    "id": 30,
+    "question": "How does SellerX foster collaboration between the Data Analytics Department and other cross-functional teams to enhance modeling efforts?"
+  },
+  {
+    "id": 31,
+    "question": "What kind of data-driven solutions does Wetter.com GmbH offer to businesses?"
+  },
+  {
+    "id": 31,
+    "question": "How does Wetter.com GmbH integrate CI/CD pipelines using AWS and Databricks?"
+  },
+  {
+    "id": 31,
+    "question": "What are the main responsibilities of a Data Engineer / DevOps Engineer in the Data Team at Wetter.com GmbH?"
+  },
+  {
+    "id": 31,
+    "question": "What kind of career development opportunities does Wetter.com GmbH provide to its employees?"
+  },
+  {
+    "id": 31,
+    "question": "How does the corporate culture at Wetter.com GmbH promote team spirit and open communication?"
+  },
+  {
+    "id": 32,
+    "question": "How does Contiamo integrate deep business know-how into their data solutions?"
+  },
+  {
+    "id": 32,
+    "question": "What are some examples of Generative AI projects delivered by Contiamo?"
+  },
+  {
+    "id": 32,
+    "question": "What is the role of a Senior Data Scientist in the development and delivery of client-oriented, data-intensive ML solutions?"
+  },
+  {
+    "id": 32,
+    "question": "What are the benefits of working at Contiamo, such as flexible working hours and vacation policies?"
+  },
+  {
+    "id": 32,
+    "question": "What technical skills are required for the Senior Data Scientist position, specifically in terms of ML-related libraries?"
+  },
+  {
+    "id": 33,
+    "question": "What are the main responsibilities of the Senior Data Scientist in Pricing Finance & Steering at Deutsche Telekom Gesch\u00e4ftskunden GmbH?"
+  },
+  {
+    "id": 33,
+    "question": "What tools and technologies are required for this role, particularly in the context of data analysis and data visualization?"
+  },
+  {
+    "id": 33,
+    "question": "What kind of experience in Data Science projects and Machine Learning approaches is needed for this position?"
+  },
+  {
+    "id": 33,
+    "question": "How does this role involve integrating data models with existing solutions and business processes?"
+  },
+  {
+    "id": 33,
+    "question": "What are the key skills and qualifications needed for this position, especially in the areas of Big Data architectures and agile methodologies?"
+  },
+  {
+    "id": 34,
+    "question": "What kind of projects will I be leading at Parloa as a Senior Data Platform Engineer?"
+  },
+  {
+    "id": 34,
+    "question": "What are the key components of the data platform I will be working on?"
+  },
+  {
+    "id": 34,
+    "question": "Can you describe Parloa's company culture and work environment?"
+  },
+  {
+    "id": 34,
+    "question": "What opportunities for professional growth does Parloa offer?"
+  },
+  {
+    "id": 34,
+    "question": "What is Parloa's data stack and what technologies will I be using?"
+  },
+  {
+    "id": 35,
+    "question": "What kind of business goals will I be translating into analytics in this role at Audible?"
+  },
+  {
+    "id": 35,
+    "question": "How does Audible's Data Science team collaborate with other teams within Amazon?"
+  },
+  {
+    "id": 35,
+    "question": "Can you describe Audible's Hub+Home hybrid workplace model in more detail?"
+  },
+  {
+    "id": 35,
+    "question": "What are some examples of causal inference applications in this job?"
+  },
+  {
+    "id": 35,
+    "question": "What does it mean to 'open the Science black-box' in the context of this position?"
+  },
+  {
+    "id": 36,
+    "question": "What is the primary focus of ZDF Sparks in terms of AI solutions?"
+  },
+  {
+    "id": 36,
+    "question": "How does ZDF Sparks foster a positive and motivated work environment?"
+  },
+  {
+    "id": 36,
+    "question": "What opportunities does ZDF Sparks provide for professional growth?"
+  },
+  {
+    "id": 36,
+    "question": "What are the key skills and expertise required for the Data Scientist position at ZDF Sparks?"
+  },
+  {
+    "id": 36,
+    "question": "How does ZDF Sparks approach diversity and inclusivity in their workplace?"
+  },
+  {
+    "id": 37,
+    "question": "What are the main responsibilities of the Data Centre Engineer position at EOS IT Solutions?"
+  },
+  {
+    "id": 37,
+    "question": "What certifications are required for the Data Centre Engineer position at EOS IT Solutions?"
+  },
+  {
+    "id": 37,
+    "question": "How does EOS IT Solutions ensure the security of their data centers?"
+  },
+  {
+    "id": 37,
+    "question": "What type of inventory management is expected from the Data Centre Engineer at EOS IT Solutions?"
+  },
+  {
+    "id": 37,
+    "question": "How does the role of Data Centre Engineer contribute to EOS IT Solutions' commitment to superior quality of service?"
+  },
+  {
+    "id": 38,
+    "question": "What is the daily responsibility of the Data Centre Engineer at EOS?"
+  },
+  {
+    "id": 38,
+    "question": "What kind of security measures does the Data Centre Engineer at EOS implement?"
+  },
+  {
+    "id": 38,
+    "question": "What specific technical skills are required for the Data Centre Engineer position at EOS?"
+  },
+  {
+    "id": 38,
+    "question": "What certifications are necessary for the Data Centre Engineer role at EOS?"
+  },
+  {
+    "id": 38,
+    "question": "What is EOS's commitment to their partners and employees like?"
+  },
+  {
+    "id": 39,
+    "question": "What specific cloud technologies will I get to work with as a Data Engineer at 1Komma5\u00b0?"
+  },
+  {
+    "id": 39,
+    "question": "What is the significance of the 'Heartbeat' app in 1Komma5\u00b0's mission?"
+  },
+  {
+    "id": 39,
+    "question": "What kind of data challenges will I be addressing with my SQL and Python skills?"
+  },
+  {
+    "id": 39,
+    "question": "How does 1Komma5\u00b0 ensure close collaboration and agile working within their teams?"
+  },
+  {
+    "id": 39,
+    "question": "How can a working student contribute to the sustainable transformation of energy infrastructure at 1Komma5\u00b0?"
+  },
+  {
+    "id": 40,
+    "question": "What is the company's mission, and how does this role contribute to it?"
+  },
+  {
+    "id": 40,
+    "question": "What are the primary responsibilities of the Data Engineer role at onu.energy?"
+  },
+  {
+    "id": 40,
+    "question": "How does onu.energy support work-life synergy and flexible work arrangements?"
+  },
+  {
+    "id": 40,
+    "question": "What skills and qualifications are essential for this position?"
+  },
+  {
+    "id": 40,
+    "question": "What opportunities for growth and development does onu.energy offer to its employees?"
+  },
+  {
+    "id": 41,
+    "question": "What are the main responsibilities for the ML Researcher / Data Scientist at onu.energy GmbH?"
+  },
+  {
+    "id": 41,
+    "question": "What are the key qualifications and skills required for the ML Researcher / Data Scientist position at onu.energy GmbH?"
+  },
+  {
+    "id": 41,
+    "question": "What are the work locations for the ML Researcher / Data Scientist position at onu.energy GmbH?"
+  },
+  {
+    "id": 41,
+    "question": "What is the work culture like at onu.energy GmbH for the ML Researcher / Data Scientist?"
+  },
+  {
+    "id": 41,
+    "question": "What are the expectations regarding innovation and pushing boundaries for the ML Researcher / Data Scientist at onu.energy GmbH?"
+  },
+  {
+    "id": 42,
+    "question": "What are some of the benefits of working at RatePAY GmbH?"
+  },
+  {
+    "id": 42,
+    "question": "What is the first step of the recruitment process at RatePAY GmbH?"
+  },
+  {
+    "id": 42,
+    "question": "What are some of the benefits of working at Ratepay GmbH?"
+  },
+  {
+    "id": 42,
+    "question": "How many vacation days per annum does RatePAY GmbH offer?"
+  },
+  {
+    "id": 42,
+    "question": "What is the primary focus of this role at RatePAY GmbH?"
+  },
+  {
+    "id": 43,
+    "question": "What are the primary responsibilities for the Data Engineer position at Vivantes Netzwerk f\u00fcr Gesundheit GmbH?"
+  },
+  {
+    "id": 43,
+    "question": "What skills are required for the Data Engineer role in the Klinisches Datenzentrum, particularly concerning programming languages and database technologies?"
+  },
+  {
+    "id": 43,
+    "question": "What kind of projects will the Data Engineer be involved in at Vivantes Netzwerk f\u00fcr Gesundheit GmbH?"
+  },
+  {
+    "id": 43,
+    "question": "What are the expected working hours and benefits for the Data Engineer position at Vivantes Netzwerk f\u00fcr Gesundheit GmbH?"
+  },
+  {
+    "id": 43,
+    "question": "What support and development opportunities are provided to the Data Engineer at Vivantes Netzwerk f\u00fcr Gesundheit GmbH?"
+  },
+  {
+    "id": 44,
+    "question": "What are the specific responsibilities of the (Senior) Cloud Engineer at BEW Berliner Energie und W\u00e4rme AG?"
+  },
+  {
+    "id": 44,
+    "question": "What qualifications and skills are required for the (Senior) Cloud Engineer position at BEW Berliner Energie und W\u00e4rme AG?"
+  },
+  {
+    "id": 44,
+    "question": "What are the benefits and perks offered by BEW Berliner Energie und W\u00e4rme AG for this position?"
+  },
+  {
+    "id": 44,
+    "question": "How does BEW Berliner Energie und W\u00e4rme AG ensure the optimal performance and availability of cloud resources?"
+  },
+  {
+    "id": 44,
+    "question": "What is the role of the (Senior) Cloud Engineer in integrating and managing SaaS solutions at BEW Berliner Energie und W\u00e4rme AG?"
+  },
+  {
+    "id": 45,
+    "question": "What are the key responsibilities of a Data Engineer at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 45,
+    "question": "What specific data technologies and tools will I be working with in this role?"
+  },
+  {
+    "id": 45,
+    "question": "What qualifications and experience are required for the Senior Data Engineer position?"
+  },
+  {
+    "id": 45,
+    "question": "How does Bundesdruckerei GmbH ensure software and data quality in their projects?"
+  },
+  {
+    "id": 45,
+    "question": "What is the company's approach to data architecture and modeling?"
+  },
+  {
+    "id": 46,
+    "question": "What are the main technologies used for data processing and orchestration at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 46,
+    "question": "How does the company approach data quality and service level agreements?"
+  },
+  {
+    "id": 46,
+    "question": "What kind of data architectures and models are commonly used in the projects?"
+  },
+  {
+    "id": 46,
+    "question": "How does Bundesdruckerei GmbH ensure the software and data quality?"
+  },
+  {
+    "id": 46,
+    "question": "What are the expectations regarding communication skills and scrum experience?"
+  },
+  {
+    "id": 47,
+    "question": "What specific skills are required for the Data Engineer position at ista Express Service GmbH?"
+  },
+  {
+    "id": 47,
+    "question": "Can you describe the company culture and team dynamics at ista Express Service GmbH?"
+  },
+  {
+    "id": 47,
+    "question": "What are the primary responsibilities of the Data Engineer role in terms of data processing and analysis?"
+  },
+  {
+    "id": 47,
+    "question": "How does ista Express Service GmbH support the professional growth and development of its employees?"
+  },
+  {
+    "id": 47,
+    "question": "What kind of projects and technologies can a Data Engineer expect to work on at ista Express Service GmbH?"
+  },
+  {
+    "id": 48,
+    "question": "What kind of projects will I be working on as a Data Engineer?"
+  },
+  {
+    "id": 48,
+    "question": "What technologies and tools does BRL Risk Consulting GmbH & Co. KG use for data engineering and analytics?"
+  },
+  {
+    "id": 48,
+    "question": "How does BRL Risk Consulting GmbH & Co. KG support the professional development of its employees?"
+  },
+  {
+    "id": 48,
+    "question": "What are the main responsibilities of a Data Engineer at BRL Risk Consulting GmbH & Co. KG?"
+  },
+  {
+    "id": 48,
+    "question": "What are the expectations for a Senior Data Engineer in terms of experience and skills?"
+  },
+  {
+    "id": 49,
+    "question": "What are the main responsibilities of a (Senior) Data Engineer at Verivox GmbH?"
+  },
+  {
+    "id": 49,
+    "question": "Which technologies and tools are primarily used in this role?"
+  },
+  {
+    "id": 49,
+    "question": "What are the preferred locations for this position?"
+  },
+  {
+    "id": 49,
+    "question": "What are the employee benefits offered by Verivox GmbH?"
+  },
+  {
+    "id": 49,
+    "question": "How does Verivox GmbH support flexible working arrangements?"
+  },
+  {
+    "id": 50,
+    "question": "What specific Azure technologies will I be using to implement BI and Analytics solutions?"
+  },
+  {
+    "id": 50,
+    "question": "Can you provide examples of the types of complex data analyses I will be performing to extract business insights and trends?"
+  },
+  {
+    "id": 50,
+    "question": "How does EY support my personal and professional growth through training and development opportunities?"
+  },
+  {
+    "id": 50,
+    "question": "What role does Machine Learning and GenAI play in solving real problems for EY's clients?"
+  },
+  {
+    "id": 50,
+    "question": "How does EY foster a culture of data-driven innovation within corporate strategies?"
+  },
+  {
+    "id": 51,
+    "question": "What is Audible's approach to work flexibility?"
+  },
+  {
+    "id": 51,
+    "question": "Can you describe the team and the types of projects you work on?"
+  },
+  {
+    "id": 51,
+    "question": "What are the main responsibilities of this Data Scientist role at Audible?"
+  },
+  {
+    "id": 51,
+    "question": "What are the basic qualifications required for this position?"
+  },
+  {
+    "id": 51,
+    "question": "What are the preferred qualifications for this Data Scientist role?"
+  },
+  {
+    "id": 52,
+    "question": "What kind of hybrid workplace model does Audible provide?"
+  },
+  {
+    "id": 52,
+    "question": "What are the main skills required for this Data Scientist role at Audible?"
+  },
+  {
+    "id": 52,
+    "question": "What kind of projects will I work on as a Data Scientist at Audible?"
+  },
+  {
+    "id": 52,
+    "question": "What are the basic qualifications for this Data Scientist position at Audible?"
+  },
+  {
+    "id": 52,
+    "question": "What are the preferred qualifications for this Data Scientist position at Audible?"
+  },
+  {
+    "id": 53,
+    "question": "What are the specific technical skills required for the position of Solution Engineer Data Center Technologies at Airbus?"
+  },
+  {
+    "id": 53,
+    "question": "What kind of support will the Solution Engineer provide to the sales, marketing, and bid management teams?"
+  },
+  {
+    "id": 53,
+    "question": "What is the main focus of the Secure Land Communications program line at Airbus Defence and Space?"
+  },
+  {
+    "id": 53,
+    "question": "What type of projects will the Solution Engineer be involved in at Airbus Secure Land Communications?"
+  },
+  {
+    "id": 53,
+    "question": "How does Orizon GmbH support its employees in their job search and career development?"
+  },
+  {
+    "id": 54,
+    "question": "What is the primary focus of the Lead Data Scientist role at Almedia?"
+  },
+  {
+    "id": 54,
+    "question": "What specific industry experience does Almedia prefer for this position?"
+  },
+  {
+    "id": 54,
+    "question": "What are the essential technical skills required for this job?"
+  },
+  {
+    "id": 54,
+    "question": "What are the key responsibilities in developing and deploying machine learning models for this role?"
+  },
+  {
+    "id": 54,
+    "question": "What benefits and work environment does Almedia offer to its employees?"
+  },
+  {
+    "id": 55,
+    "question": "What are the main responsibilities of the Data Center Engineer at Xecuro GmbH in Berlin?"
+  },
+  {
+    "id": 55,
+    "question": "What specific experience is required for the Data Center Engineer role at Xecuro GmbH?"
+  },
+  {
+    "id": 55,
+    "question": "What technical skills and knowledge are essential for the Data Center Engineer position at Xecuro GmbH?"
+  },
+  {
+    "id": 55,
+    "question": "What kind of working environment and schedule can be expected for the Data Center Engineer role at Xecuro GmbH?"
+  },
+  {
+    "id": 55,
+    "question": "What attributes and soft skills are Xecuro GmbH looking for in a Data Center Engineer?"
+  },
+  {
+    "id": 56,
+    "question": "What types of projects will I be working on as a Senior Data Engineer at diconium group?"
+  },
+  {
+    "id": 56,
+    "question": "How does diconium group's modern and flexible working environment support collaboration and innovation?"
+  },
+  {
+    "id": 56,
+    "question": "Can you provide examples of the types of clients I will be working with in the areas of Data & AI and Data Engineering?"
+  },
+  {
+    "id": 56,
+    "question": "What is the role of a Senior Data Engineer in developing scalable data pipelines at diconium group?"
+  },
+  {
+    "id": 56,
+    "question": "How does diconium group ensure continuous improvement in data processing efficiency and performance?"
+  },
+  {
+    "id": 57,
+    "question": "What are the main responsibilities for the Data Engineer position at Cornelsen?"
+  },
+  {
+    "id": 57,
+    "question": "What specific experience is required for working with Cornelsen's tech stack, including Python and cloud providers like AWS and Azure?"
+  },
+  {
+    "id": 57,
+    "question": "How does Cornelsen ensure high data quality throughout the entire data lifecycle?"
+  },
+  {
+    "id": 57,
+    "question": "What opportunities for personal and professional development does Cornelsen offer to its employees?"
+  },
+  {
+    "id": 57,
+    "question": "How does Cornelsen support work-life balance and flexible working arrangements for its employees?"
+  },
+  {
+    "id": 58,
+    "question": "What are the main responsibilities of a Senior Data Engineer at Riverty Group GmbH?"
+  },
+  {
+    "id": 58,
+    "question": "What skills and qualifications are required for the Senior Data Engineer position at Riverty Group GmbH?"
+  },
+  {
+    "id": 58,
+    "question": "How does Riverty Group GmbH support the professional development of its employees?"
+  },
+  {
+    "id": 58,
+    "question": "What are the benefits of working at Riverty Group GmbH?"
+  },
+  {
+    "id": 58,
+    "question": "What is the work environment like at Riverty Group GmbH?"
+  },
+  {
+    "id": 59,
+    "question": "What are the primary responsibilities for the Data Engineer position at ista Express Service GmbH?"
+  },
+  {
+    "id": 59,
+    "question": "What qualifications and experience are required for the Data Engineer role?"
+  },
+  {
+    "id": 59,
+    "question": "What cloud platforms and programming languages should a Data Engineer at ista Express Service GmbH be proficient in?"
+  },
+  {
+    "id": 59,
+    "question": "What benefits and work-life balance options does ista Express Service GmbH offer to its employees?"
+  },
+  {
+    "id": 59,
+    "question": "How does ista Express Service GmbH support the professional development of its employees?"
+  },
+  {
+    "id": 60,
+    "question": "What kind of projects will I be working on as a Data Engineer at ista Express Service GmbH?"
+  },
+  {
+    "id": 60,
+    "question": "Can you elaborate on the specific responsibilities related to developing and maintaining data pipelines?"
+  },
+  {
+    "id": 60,
+    "question": "How does ista Express Service GmbH approach work-life balance and what benefits are provided in this regard?"
+  },
+  {
+    "id": 60,
+    "question": "What opportunities for professional growth and development does ista Express Service GmbH offer?"
+  },
+  {
+    "id": 60,
+    "question": "How does the company utilize cloud platforms like AWS, Azure, and Google Cloud in their data engineering processes?"
+  },
+  {
+    "id": 61,
+    "question": "What are the key responsibilities of a Data Engineer at TastyUrban GmbH?"
+  },
+  {
+    "id": 61,
+    "question": "What qualifications and experience are required for the Data Engineer position at TastyUrban GmbH?"
+  },
+  {
+    "id": 61,
+    "question": "How does TastyUrban GmbH ensure data quality and integrity in its data pipelines?"
+  },
+  {
+    "id": 61,
+    "question": "What are the expectations from a Data Engineer regarding collaboration with other teams at TastyUrban GmbH?"
+  },
+  {
+    "id": 61,
+    "question": "What opportunities for career growth and development are available for a Data Engineer at TastyUrban GmbH?"
+  },
+  {
+    "id": 62,
+    "question": "What specific technologies and methodologies does the AI Data Engineer role at Deutsche Rentenversicherung Bund focus on?"
+  },
+  {
+    "id": 62,
+    "question": "How does the position contribute to the digital transformation of the DRV Bund?"
+  },
+  {
+    "id": 62,
+    "question": "What are the main responsibilities of the AI Data Engineer in terms of data science applications and data pipelines?"
+  },
+  {
+    "id": 62,
+    "question": "What opportunities for professional growth and development does the company offer?"
+  },
+  {
+    "id": 62,
+    "question": "What are the requirements for participating in the selection process for this position?"
+  },
+  {
+    "id": 63,
+    "question": "What are the key responsibilities of the Intermediate Data Engineer role at Omnipresent?"
+  },
+  {
+    "id": 63,
+    "question": "What qualifications are required for the Intermediate Data Engineer position at Omnipresent?"
+  },
+  {
+    "id": 63,
+    "question": "What are the preferred qualifications for the Intermediate Data Engineer role at Omnipresent?"
+  },
+  {
+    "id": 63,
+    "question": "What benefits does Omnipresent offer to its employees in addition to flexible working and training opportunities?"
+  },
+  {
+    "id": 63,
+    "question": "How does Omnipresent ensure inclusivity and conscious inclusion within the company?"
+  },
+  {
+    "id": 64,
+    "question": "What kind of projects will I be working on as a Data Scientist at Siemens Historical Institute?"
+  },
+  {
+    "id": 64,
+    "question": "What specific responsibilities will I have in terms of Cyber-Security and Data Protection at Siemens?"
+  },
+  {
+    "id": 64,
+    "question": "What are the main challenges in modernizing the IT landscape and digital archive at Siemens Historical Institute?"
+  },
+  {
+    "id": 64,
+    "question": "How does Siemens ensure collaboration between internal and external stakeholders for smooth data exchange?"
+  },
+  {
+    "id": 64,
+    "question": "What budget management responsibilities will I have as a Data Scientist at Siemens Historical Institute?"
+  },
+  {
+    "id": 65,
+    "question": "What are the specific AWS services that the Data Platform team at MOIA relies on to build their data products and keep their stack serverless?"
+  },
+  {
+    "id": 65,
+    "question": "How does the Data Platform team at MOIA ensure that data generated at MOIA can be accessed and processed in their data platform?"
+  },
+  {
+    "id": 65,
+    "question": "What are the main responsibilities of the (Senior) Data Platform Engineer in terms of designing, developing, and maintaining the internal data platform at MOIA?"
+  },
+  {
+    "id": 65,
+    "question": "What are the key skills and experiences that would help someone fulfill the role of a (Senior) Data Platform Engineer at MOIA?"
+  },
+  {
+    "id": 65,
+    "question": "What are some of the benefits that MOIA offers to its employees, particularly in terms of work arrangements, learning environment, and mental health support?"
+  },
+  {
+    "id": 66,
+    "question": "What specific skills and technologies are required for the (Junior) Data Engineer position at RSG Group GmbH?"
+  },
+  {
+    "id": 66,
+    "question": "Can you describe the responsibilities related to ETL/ELT processes in this role?"
+  },
+  {
+    "id": 66,
+    "question": "What benefits does RSG Group GmbH offer, particularly in terms of employee support and development?"
+  },
+  {
+    "id": 66,
+    "question": "How does the role contribute to the development and optimization of data architecture and business logic?"
+  },
+  {
+    "id": 66,
+    "question": "What are the expectations regarding the candidate's educational background and professional experience for this position?"
+  },
+  {
+    "id": 67,
+    "question": "What are the primary responsibilities of the Business Intelligence Engineer at Amazon Development Center Germany GmbH?"
+  },
+  {
+    "id": 67,
+    "question": "What specific tools and technologies does the Business Intelligence Engineer need to be proficient in?"
+  },
+  {
+    "id": 67,
+    "question": "How does this role contribute to Amazon's customer facing programs and down stream impact analysis?"
+  },
+  {
+    "id": 67,
+    "question": "What type of data will the Business Intelligence Engineer work with in this role?"
+  },
+  {
+    "id": 67,
+    "question": "What are the key expectations for the Business Intelligence Engineer in terms of building models, heuristics, and frameworks for the tech team roadmap?"
+  },
+  {
+    "id": 68,
+    "question": "What specific skills and technologies are required for the Data Engineer position at Michael Page?"
+  },
+  {
+    "id": 68,
+    "question": "How does Michael Page support the physical and psychological health of its employees?"
+  },
+  {
+    "id": 68,
+    "question": "What are the primary responsibilities of the Data Engineer in terms of data analysis and integration strategies?"
+  },
+  {
+    "id": 68,
+    "question": "How does the company foster a team-oriented work environment and individual career planning?"
+  },
+  {
+    "id": 68,
+    "question": "What role does the FME\u00ae platform play in the Data Engineer's tasks, and how is it used in data workflows?"
+  },
+  {
+    "id": 69,
+    "question": "What specific skills and expertise are required for this genomic data scientist role at Bayer?"
+  },
+  {
+    "id": 69,
+    "question": "How does Bayer ensure work-life balance and family support for its employees?"
+  },
+  {
+    "id": 69,
+    "question": "What are some examples of the highly innovative research projects that a genomic data scientist at Bayer might lead?"
+  },
+  {
+    "id": 69,
+    "question": "How does Bayer support the professional growth and development of its employees?"
+  },
+  {
+    "id": 69,
+    "question": "In what ways does Bayer promote an inclusive and diverse work environment?"
+  },
+  {
+    "id": 70,
+    "question": "What kind of projects will I be leading as a Genomic Data Scientist at Bayer?"
+  },
+  {
+    "id": 70,
+    "question": "Which specific omics datasets will I primarily work with in this role?"
+  },
+  {
+    "id": 70,
+    "question": "What kind of methods will I be involved in developing for data analysis?"
+  },
+  {
+    "id": 70,
+    "question": "Who will I potentially collaborate with in this position?"
+  },
+  {
+    "id": 70,
+    "question": "What kind of support and mentorship can I expect from Bayer?"
+  },
+  {
+    "id": 71,
+    "question": "What are the main responsibilities of the Senior Data Scientist in the Enterprise Solutions Unit at Semrush?"
+  },
+  {
+    "id": 71,
+    "question": "What specific skills and qualifications are required for the Senior Data Scientist position at Semrush?"
+  },
+  {
+    "id": 71,
+    "question": "What are the benefits and work conditions offered by Semrush for this position?"
+  },
+  {
+    "id": 71,
+    "question": "Why is knowledge of SEO best practices considered a plus for this role?"
+  },
+  {
+    "id": 71,
+    "question": "What is the primary focus of the Torch team within Semrush?"
+  },
+  {
+    "id": 72,
+    "question": "What specific experience with NLP and LLMs does Parloa require for the Senior Machine Learning Engineer role?"
+  },
+  {
+    "id": 72,
+    "question": "Can you describe Parloa's approach to ML Ops and how it integrates with their data science projects?"
+  },
+  {
+    "id": 72,
+    "question": "What kind of medium-sized technical projects would a Senior Machine Learning Engineer at Parloa be expected to lead?"
+  },
+  {
+    "id": 72,
+    "question": "How does Parloa support continuous professional growth for its employees?"
+  },
+  {
+    "id": 72,
+    "question": "What are the key technologies in Parloa's tech stack for data and machine learning platforms?"
+  },
+  {
+    "id": 73,
+    "question": "What is the role of a Data Scientist at BCG X?"
+  },
+  {
+    "id": 73,
+    "question": "What are the highlighted skills required for the Data Scientist position at BCG X?"
+  },
+  {
+    "id": 73,
+    "question": "Where is the BCG X Data Scientist position located?"
+  },
+  {
+    "id": 73,
+    "question": "What are the main responsibilities of the Data Scientist at BCG X?"
+  },
+  {
+    "id": 73,
+    "question": "What does the work environment look like at Boston Consulting Group for a Data Scientist?"
+  },
+  {
+    "id": 74,
+    "question": "What specific challenges in logistics will I be working on at Delivery Hero?"
+  },
+  {
+    "id": 74,
+    "question": "Can you explain the process of moving from research and prototyping to production-grade systems at Delivery Hero?"
+  },
+  {
+    "id": 74,
+    "question": "How does the Data Science squad at Delivery Hero integrate with product teams?"
+  },
+  {
+    "id": 74,
+    "question": "What kind of fraud detection models will I be developing?"
+  },
+  {
+    "id": 74,
+    "question": "What additional skills or experiences are considered nice-to-have for this position?"
+  },
+  {
+    "id": 75,
+    "question": "What responsibilities does a Senior Data Engineer have at Workwise GmbH?"
+  },
+  {
+    "id": 75,
+    "question": "What technologies and tools does this position require expertise in?"
+  },
+  {
+    "id": 75,
+    "question": "What are the qualifications and experience required for this role?"
+  },
+  {
+    "id": 75,
+    "question": "What benefits does Workwise GmbH offer to its employees?"
+  },
+  {
+    "id": 75,
+    "question": "How does the company support career growth and development?"
+  },
+  {
+    "id": 76,
+    "question": "What are the specific responsibilities of the Data Engineer role at BRL Risk Consulting GmbH & Co. KG?"
+  },
+  {
+    "id": 76,
+    "question": "What technologies and tools does the Data Engineer at BRL Risk Consulting GmbH & Co. KG need to be proficient in?"
+  },
+  {
+    "id": 76,
+    "question": "What qualifications and experience are required for the Data Engineer position at BRL Risk Consulting GmbH & Co. KG?"
+  },
+  {
+    "id": 76,
+    "question": "What benefits and career opportunities does BRL Risk Consulting GmbH & Co. KG offer to its Data Engineers?"
+  },
+  {
+    "id": 76,
+    "question": "How does BRL Risk Consulting GmbH & Co. KG support the professional development of its Data Engineers?"
+  },
+  {
+    "id": 77,
+    "question": "What are the specific tools and technologies I will be working with as a Data Engineer at Toll Collect GmbH?"
+  },
+  {
+    "id": 77,
+    "question": "How does the company support the professional development of its employees, particularly in the data engineering field?"
+  },
+  {
+    "id": 77,
+    "question": "What are the main responsibilities in this role regarding the development and maintenance of data models and data flows?"
+  },
+  {
+    "id": 77,
+    "question": "Can you provide more details on the team structure and dynamics at Toll Collect GmbH?"
+  },
+  {
+    "id": 77,
+    "question": "What kind of projects or business areas will I be involved in as a Data Engineer at this company?"
+  },
+  {
+    "id": 78,
+    "question": "What is the main focus of Latana as a company?"
+  },
+  {
+    "id": 78,
+    "question": "What are the primary programming languages used at Latana?"
+  },
+  {
+    "id": 78,
+    "question": "Can you describe the work environment at Latana?"
+  },
+  {
+    "id": 78,
+    "question": "What opportunities for professional growth does Latana provide?"
+  },
+  {
+    "id": 78,
+    "question": "What tools and technologies will I be working with in this role?"
+  },
+  {
+    "id": 79,
+    "question": "What specific experience with IBM Infosphere Datastage and IBM Cognos Analytics is required for this Data Engineer position?"
+  },
+  {
+    "id": 79,
+    "question": "How is Toll Collect GmbH supporting the professional development of its employees in the data engineering field?"
+  },
+  {
+    "id": 79,
+    "question": "What are the main responsibilities in terms of data modeling and workflow enhancement for this role?"
+  },
+  {
+    "id": 79,
+    "question": "Can you describe the collaborative and interdisciplinary nature of the team at Toll Collect GmbH?"
+  },
+  {
+    "id": 79,
+    "question": "What are the key technical competencies needed, particularly regarding SQL and operating systems, for success in this role?"
+  },
+  {
+    "id": 80,
+    "question": "What are the specific locations within Berlin where the company's offices are situated?"
+  },
+  {
+    "id": 80,
+    "question": "Can you provide more details on the type of data analytics use cases the company typically works on?"
+  },
+  {
+    "id": 80,
+    "question": "What are the expectations regarding travel for this role, and how frequently might it be required?"
+  },
+  {
+    "id": 80,
+    "question": "Could you elaborate on the internal Merchandise-Shop and what kind of items are available with the startguthaben?"
+  },
+  {
+    "id": 80,
+    "question": "What are the specific benefits of the EGYM Well Pass membership with Plus1 Option provided by the company?"
+  },
+  {
+    "id": 81,
+    "question": "What is the primary objective of the Senior Machine Learning Engineer at SAP in Berlin?"
+  },
+  {
+    "id": 81,
+    "question": "How will the engineer contribute to thought leadership in the context of Foundation Models and Generative AI at SAP?"
+  },
+  {
+    "id": 81,
+    "question": "What are the required qualifications for the Senior Machine Learning Engineer position at SAP in Berlin?"
+  },
+  {
+    "id": 81,
+    "question": "How does SAP enable employees to bring out their best in their company culture?"
+  },
+  {
+    "id": 81,
+    "question": "What is the mission of SAP's AI organization, and how does it contribute to enhancing business processes and generating business value?"
+  },
+  {
+    "id": 82,
+    "question": "What specific technical skills and knowledge are required for the System Engineer role at Corning, such as proficiency in Python, Java, and network design?"
+  },
+  {
+    "id": 82,
+    "question": "Can you provide examples of the types of datasheets, system designs, and technical papers the System Engineer will create for Corning's customers?"
+  },
+  {
+    "id": 82,
+    "question": "What kind of pre-sales and after-sales support will the System Engineer provide to Corning's customers, and how does this support enhance customer satisfaction?"
+  },
+  {
+    "id": 82,
+    "question": "How does the System Engineer collaborate with account managers and customers to address technical inquiries and resolve discrepancies during the BOM verification process?"
+  },
+  {
+    "id": 82,
+    "question": "What are the travel requirements for the System Engineer position at Corning, and how does this flexibility impact the role's responsibilities?"
+  },
+  {
+    "id": 83,
+    "question": "What are the main responsibilities of the (Senior) Operations Engineer for the PLAIN platform at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 83,
+    "question": "What technologies and tools does the (Senior) Operations Engineer need to be proficient in for this role?"
+  },
+  {
+    "id": 83,
+    "question": "What type of incidents and problems will the (Senior) Operations Engineer handle on a daily basis?"
+  },
+  {
+    "id": 83,
+    "question": "How does the (Senior) Operations Engineer contribute to the efficiency and professionalization of data analytics within Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 83,
+    "question": "What are the educational and experience requirements for applying to this position at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 84,
+    "question": "What specific data visualization tools are you expected to use in this role?"
+  },
+  {
+    "id": 84,
+    "question": "How does omos media GmbH support continuous learning and staying updated with current technology trends?"
+  },
+  {
+    "id": 84,
+    "question": "Can you describe the importance of cross-functional collaboration in this role?"
+  },
+  {
+    "id": 84,
+    "question": "What kind of feedback mechanisms are in place to foster development and enhance team performance?"
+  },
+  {
+    "id": 84,
+    "question": "How does omos media GmbH celebrate special occasions and appreciate the hard work of its team members?"
+  },
+  {
+    "id": 85,
+    "question": "What specific skills and qualifications are required for the Data Engineer / Data Analyst position at TXT e-solutions SPA?"
+  },
+  {
+    "id": 85,
+    "question": "Can you describe the responsibilities and expectations for the Data Engineer / Data Analyst role at TXT e-solutions SPA?"
+  },
+  {
+    "id": 85,
+    "question": "What kind of projects will the Data Engineer / Data Analyst be working on at TXT e-solutions SPA?"
+  },
+  {
+    "id": 85,
+    "question": "What are the benefits and work environment like for the Data Engineer / Data Analyst position at TXT e-solutions SPA?"
+  },
+  {
+    "id": 85,
+    "question": "What is the structure and culture of the team that the Data Engineer / Data Analyst will be joining at TXT e-solutions SPA?"
+  },
+  {
+    "id": 86,
+    "question": "What kind of projects will I work on as a Data Engineer at CGI Group?"
+  },
+  {
+    "id": 86,
+    "question": "What kind of work-life balance does CGI Group offer?"
+  },
+  {
+    "id": 86,
+    "question": "Are there opportunities for career advancement and professional development at CGI Group?"
+  },
+  {
+    "id": 86,
+    "question": "What kind of support and benefits does CGI Group provide to its employees?"
+  },
+  {
+    "id": 86,
+    "question": "How does CGI Group foster a collaborative and inclusive work environment?"
+  },
+  {
+    "id": 87,
+    "question": "What are the primary responsibilities of the (Senior) Operations Engineer at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 87,
+    "question": "Which technologies and tools will I be working with in the PLAIN platform at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 87,
+    "question": "What qualifications and experience are required for the (Senior) Operations Engineer role at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 87,
+    "question": "How does Bundesdruckerei GmbH support professional development and teamwork in their daily operations?"
+  },
+  {
+    "id": 87,
+    "question": "What is the significance of PLAIN in the context of political decision-making and data professionalism?"
+  },
+  {
+    "id": 88,
+    "question": "What technical skills are required for the Test Engineer - Data Analytics & Management Platform position at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 88,
+    "question": "What is the main responsibility of the Test Engineer - Data Analytics & Management Platform role at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 88,
+    "question": "What is the work location for the Test Engineer - Data Analytics & Management Platform position at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 88,
+    "question": "What kind of testing methodologies and frameworks are emphasized in the job description for the Test Engineer - Data Analytics & Management Platform role at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 88,
+    "question": "What experience and education level are expected from candidates for the Test Engineer - Data Analytics & Management Platform position at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 89,
+    "question": "What are the primary responsibilities of the Data Engineer role at Toll Collect GmbH?"
+  },
+  {
+    "id": 89,
+    "question": "What specific skills and qualifications are required for the Data Engineer position?"
+  },
+  {
+    "id": 89,
+    "question": "What kind of team will the Data Engineer be working with at Toll Collect GmbH?"
+  },
+  {
+    "id": 89,
+    "question": "What benefits and compensation are offered for the Data Engineer role at Toll Collect GmbH?"
+  },
+  {
+    "id": 89,
+    "question": "How can interested applicants apply for the Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 90,
+    "question": "What is the primary responsibility of the Data Scientist at Vanilla Steel?"
+  },
+  {
+    "id": 90,
+    "question": "What are the main tasks associated with this role?"
+  },
+  {
+    "id": 90,
+    "question": "What kind of experience is required for this position?"
+  },
+  {
+    "id": 90,
+    "question": "What skills and tools are highlighted as important for this job?"
+  },
+  {
+    "id": 90,
+    "question": "What benefits does Vanilla Steel offer to its employees?"
+  },
+  {
+    "id": 91,
+    "question": "What specific generative AI models and frameworks does Materna Information & Communications SE expect the Data Scientist to have experience with?"
+  },
+  {
+    "id": 91,
+    "question": "What are the main responsibilities of the Data Scientist Generative AI in terms of developing and implementing AI applications?"
+  },
+  {
+    "id": 91,
+    "question": "In which sectors or industries does Materna Information & Communications SE apply generative AI models, and what are some examples of these applications?"
+  },
+  {
+    "id": 91,
+    "question": "What kind of projects will the Data Scientist Generative AI be involved in at Materna Information & Communications SE?"
+  },
+  {
+    "id": 91,
+    "question": "What are the key skills and qualifications Materna Information & Communications SE is looking for in a Data Scientist Generative AI?"
+  },
+  {
+    "id": 92,
+    "question": "What kind of data will I be working with as a Data Engineer at Bertrandt AG?"
+  },
+  {
+    "id": 92,
+    "question": "What specific tools and technologies will I be using to create dashboards and analyze data?"
+  },
+  {
+    "id": 92,
+    "question": "Can you provide more details on the types of KPIs I will be responsible for reporting?"
+  },
+  {
+    "id": 92,
+    "question": "What is the team structure like and how does the team approach collaborative work?"
+  },
+  {
+    "id": 92,
+    "question": "What are the expectations for mobile and remote work in this position?"
+  },
+  {
+    "id": 93,
+    "question": "What kind of advanced data tools will I be creating for GenAI applications?"
+  },
+  {
+    "id": 93,
+    "question": "Can you provide more details on the types of large-scale data you handle?"
+  },
+  {
+    "id": 93,
+    "question": "How frequently will I collaborate with researchers and software engineers on data collection methodologies?"
+  },
+  {
+    "id": 93,
+    "question": "Could you elaborate on the specific challenges related to Generative AI use cases I will be working on?"
+  },
+  {
+    "id": 93,
+    "question": "What are some examples of web services I will be developing and maintaining?"
+  },
+  {
+    "id": 94,
+    "question": "What are the main responsibilities of a (Senior) DevOps Engineer at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 94,
+    "question": "Which skills are required for the role of (Senior) DevOps Engineer - Data Analytics & Management Plattform at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 94,
+    "question": "What is PLAIN and how does it relate to the work of a DevOps Engineer at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 94,
+    "question": "What type of projects will a (Senior) DevOps Engineer at Bundesdruckerei GmbH be working on?"
+  },
+  {
+    "id": 94,
+    "question": "What are the key technologies and methodologies used in this role at Bundesdruckerei GmbH?"
+  },
+  {
+    "id": 95,
+    "question": "What are the key responsibilities of a Data Engineer at IntApp?"
+  },
+  {
+    "id": 95,
+    "question": "What programming skills are required for this position?"
+  },
+  {
+    "id": 95,
+    "question": "What are the benefits offered by IntApp for this role?"
+  },
+  {
+    "id": 95,
+    "question": "What tools and technologies will I work with as a Data Engineer at IntApp?"
+  },
+  {
+    "id": 95,
+    "question": "What opportunities for growth and development does IntApp provide?"
+  },
+  {
+    "id": 96,
+    "question": "What are the main responsibilities of a Data Scientist at SumUp?"
+  },
+  {
+    "id": 96,
+    "question": "What specific skills and experience are required for this role?"
+  },
+  {
+    "id": 96,
+    "question": "How does SumUp support professional development for its employees?"
+  },
+  {
+    "id": 96,
+    "question": "What benefits does SumUp offer to its employees?"
+  },
+  {
+    "id": 96,
+    "question": "How does SumUp foster diversity and inclusion in the workplace?"
+  },
+  {
+    "id": 97,
+    "question": "What are the key skills and technologies required for the Senior Data Engineer - Platform position at Babbel?"
+  },
+  {
+    "id": 97,
+    "question": "How does Babbel support continuous learning and development for its employees?"
+  },
+  {
+    "id": 97,
+    "question": "What are the primary responsibilities of the Senior Data Engineer - Platform in Babbel's Data Platform team?"
+  },
+  {
+    "id": 97,
+    "question": "How does Babbel promote a diverse, equitable, and inclusive workplace?"
+  },
+  {
+    "id": 97,
+    "question": "What benefits and perks does Babbel offer to its employees, specifically for the Senior Data Engineer - Platform role?"
+  },
+  {
+    "id": 98,
+    "question": "What is the main focus of the Data Engineer role at MOIA in the Fleet Analytics team?"
+  },
+  {
+    "id": 98,
+    "question": "What are the key skills and experience required for this position?"
+  },
+  {
+    "id": 98,
+    "question": "What benefits does MOIA offer to its employees in terms of work-life balance and professional development?"
+  },
+  {
+    "id": 98,
+    "question": "How does MOIA support diversity and inclusivity within the company?"
+  },
+  {
+    "id": 98,
+    "question": "What is the hybrid work approach at MOIA and how does it promote flexibility for employees?"
+  },
+  {
+    "id": 99,
+    "question": "What are the main responsibilities of this Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 99,
+    "question": "Which specific skills and qualifications are required for this Data Engineer role?"
+  },
+  {
+    "id": 99,
+    "question": "What kind of team structure and work environment can I expect at Toll Collect GmbH?"
+  },
+  {
+    "id": 99,
+    "question": "What benefits and social contributions does Toll Collect GmbH offer its employees?"
+  },
+  {
+    "id": 99,
+    "question": "Why is this Data Engineer position at Toll Collect GmbH only temporary?"
+  },
+  {
+    "id": 100,
+    "question": "What are the key responsibilities for the Sr Staff Data Platform Software Engineer at ServiceNow?"
+  },
+  {
+    "id": 100,
+    "question": "What are the specific qualifications required for the Sr Staff Data Platform Software Engineer position?"
+  },
+  {
+    "id": 100,
+    "question": "What is the significance of the ServiceNow Project RaptorDB and how does it relate to this role?"
+  },
+  {
+    "id": 100,
+    "question": "What are the advantages of working at ServiceNow, according to their job posting?"
+  },
+  {
+    "id": 100,
+    "question": "How does ServiceNow ensure inclusivity and flexibility in their work environment?"
+  },
+  {
+    "id": 101,
+    "question": "What are some of the key responsibilities for the Senior Data Engineer at Babbel?"
+  },
+  {
+    "id": 101,
+    "question": "What are the highlighted skills and qualifications required for the Senior Data Engineer position at Babbel?"
+  },
+  {
+    "id": 101,
+    "question": "What types of data engineering projects will the Senior Data Engineer be working on at Babbel?"
+  },
+  {
+    "id": 101,
+    "question": "What are the benefits and perks offered to the Senior Data Engineer at Babbel?"
+  },
+  {
+    "id": 101,
+    "question": "What is Babbel's approach to diversity and inclusion in their hiring process for the Senior Data Engineer position?"
+  },
+  {
+    "id": 102,
+    "question": "What specific skills in Python and SQL are required for the Data Engineer position at IT4IPM?"
+  },
+  {
+    "id": 102,
+    "question": "Can you elaborate on the type of tasks involving Spark that I would be handling in this role at IT4IPM?"
+  },
+  {
+    "id": 102,
+    "question": "How are the team-based support and technical supervision structured in this position at IT4IPM?"
+  },
+  {
+    "id": 102,
+    "question": "What kind of integration between functional requirements and the data architecture is expected in this role at IT4IPM?"
+  },
+  {
+    "id": 102,
+    "question": "What is the significance of Streaming-Technologien, specifically Kafka, in the responsibilities of this job at IT4IPM?"
+  },
+  {
+    "id": 103,
+    "question": "What are the specific responsibilities for the Data Engineer role at Toll Collect GmbH?"
+  },
+  {
+    "id": 103,
+    "question": "What skills and experience are required for the Data Engineer position, particularly in terms of software and database management?"
+  },
+  {
+    "id": 103,
+    "question": "What are the benefits of working at Toll Collect GmbH, specifically in terms of professional development and work-life balance?"
+  },
+  {
+    "id": 103,
+    "question": "What is the work environment like at Toll Collect GmbH for the Data Engineer position?"
+  },
+  {
+    "id": 103,
+    "question": "What qualifications are necessary for the Data Engineer role, particularly in terms of education and previous work experience?"
+  },
+  {
+    "id": 104,
+    "question": "What opportunities for mentoring and coaching are available for Senior Data Engineers at Babbel?"
+  },
+  {
+    "id": 104,
+    "question": "Can you elaborate on Babbel's approach to flexible working hours and remote work options, including the 'Jobbatical' program?"
+  },
+  {
+    "id": 104,
+    "question": "How does Babbel support the professional growth and development of its employees, particularly in the data engineering field?"
+  },
+  {
+    "id": 104,
+    "question": "What are the main responsibilities of a Senior Data Engineer in terms of data architecture and data models at Babbel?"
+  },
+  {
+    "id": 104,
+    "question": "How does Babbel ensure data governance and best practices within its data engineering projects?"
+  },
+  {
+    "id": 105,
+    "question": "What specific experience is required with Alteryx and Alteryx Server?"
+  },
+  {
+    "id": 105,
+    "question": "How advanced should the Tableau and Tableau Server knowledge be for this role?"
+  },
+  {
+    "id": 105,
+    "question": "Are there any particular data visualization and data modeling skills required?"
+  },
+  {
+    "id": 105,
+    "question": "What are the expectations for creating digital dashboards to visualize data?"
+  },
+  {
+    "id": 105,
+    "question": "What level of expertise in statistical programming, such as R-Studio, is needed?"
+  },
+  {
+    "id": 106,
+    "question": "What are the educational requirements for this Intern Data Engineer position at McMakler?"
+  },
+  {
+    "id": 106,
+    "question": "What specific skills in Python and software development are expected from an applicant?"
+  },
+  {
+    "id": 106,
+    "question": "How does McMakler integrate modern AI to optimize processes and marketing?"
+  },
+  {
+    "id": 106,
+    "question": "What kind of support and learning opportunities can an intern expect from the Data Team at McMakler?"
+  },
+  {
+    "id": 106,
+    "question": "How do the corporate values at McMakler influence the day-to-day operations of the Data Team?"
+  },
+  {
+    "id": 107,
+    "question": "What are the key responsibilities of the Data Engineer at Toll Collect GmbH?"
+  },
+  {
+    "id": 107,
+    "question": "What technical skills and qualifications are required for this position?"
+  },
+  {
+    "id": 107,
+    "question": "Can you describe the team environment and company culture at Toll Collect GmbH?"
+  },
+  {
+    "id": 107,
+    "question": "What kind of support and benefits does Toll Collect GmbH offer to its employees?"
+  },
+  {
+    "id": 107,
+    "question": "What are the expectations regarding the handling of data models and IT-supported processes in this role?"
+  },
+  {
+    "id": 108,
+    "question": "What specific skills in SQL and PL/SQL are required for this Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 108,
+    "question": "How does the role involve working with IBM Infosphere Datastage and IBM Cognos Analytics?"
+  },
+  {
+    "id": 108,
+    "question": "What kind of data models and data flows will the Data Engineer be responsible for developing and maintaining?"
+  },
+  {
+    "id": 108,
+    "question": "How does Toll Collect GmbH support the professional and personal development of its employees?"
+  },
+  {
+    "id": 108,
+    "question": "What are the key responsibilities in supporting and advising system users on operational issues in this role?"
+  },
+  {
+    "id": 109,
+    "question": "What is the company dltHub looking for in a Python Composable Data Stack Engineer?"
+  },
+  {
+    "id": 109,
+    "question": "What are the primary responsibilities for the Python Composable Data Stack Engineer at dltHub?"
+  },
+  {
+    "id": 109,
+    "question": "What are the required skills for the Python Composable Data Stack Engineer at dltHub?"
+  },
+  {
+    "id": 109,
+    "question": "What qualifications are necessary for the Python Composable Data Stack Engineer at dltHub?"
+  },
+  {
+    "id": 109,
+    "question": "What are the benefits of working at dltHub for the Python Composable Data Stack Engineer?"
+  },
+  {
+    "id": 110,
+    "question": "What specific tasks are involved in the technical support for the ongoing development of the central, cross-divisional data model?"
+  },
+  {
+    "id": 110,
+    "question": "Can you describe the process of ensuring data security around highly sensitive, NDA-protected data through best practice permission management in the database?"
+  },
+  {
+    "id": 110,
+    "question": "What are the main responsibilities in the preparation and support of a large migration and refactoring project of a Postgres database/data warehouse to a modern Snowflake Cloud Data Platform?"
+  },
+  {
+    "id": 110,
+    "question": "How does the close cooperation with international developer teams look like in practice?"
+  },
+  {
+    "id": 110,
+    "question": "What are the expectations for the willingness to learn and practice new technologies depending on the project requirements?"
+  },
+  {
+    "id": 111,
+    "question": "What are the specific responsibilities of the Data Engineer role at Toll Collect GmbH?"
+  },
+  {
+    "id": 111,
+    "question": "Can you provide more details on the types of data models and data flows the Data Engineer will be responsible for developing?"
+  },
+  {
+    "id": 111,
+    "question": "What are the key projects or initiatives that the Data Engineer will be involved in at Toll Collect GmbH?"
+  },
+  {
+    "id": 111,
+    "question": "How does Toll Collect GmbH support the professional development of its employees, specifically in the data engineering field?"
+  },
+  {
+    "id": 111,
+    "question": "What are the main benefits and perks offered to employees at Toll Collect GmbH, aside from the competitive salary?"
+  },
+  {
+    "id": 112,
+    "question": "What is the main responsibility of the Data Engineer at CANCOM SE?"
+  },
+  {
+    "id": 112,
+    "question": "Which locations is this job position available in?"
+  },
+  {
+    "id": 112,
+    "question": "What are the highlighted skills required for this position?"
+  },
+  {
+    "id": 112,
+    "question": "What is the nature of the job environment at CANCOM SE?"
+  },
+  {
+    "id": 112,
+    "question": "What benefits does CANCOM SE offer to its employees in Germany?"
+  },
+  {
+    "id": 113,
+    "question": "What kind of responsibilities does the Data Engineer at Toll Collect GmbH have?"
+  },
+  {
+    "id": 113,
+    "question": "Which skills and qualifications are required for the Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 113,
+    "question": "What benefits does Toll Collect GmbH offer for the Data Engineer position?"
+  },
+  {
+    "id": 113,
+    "question": "Where is the workplace located for the Data Engineer at Toll Collect GmbH?"
+  },
+  {
+    "id": 113,
+    "question": "What is the duration of the Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 114,
+    "question": "What are the key technologies and tools used in this role at SumUp?"
+  },
+  {
+    "id": 114,
+    "question": "How does SumUp support the professional development of its employees?"
+  },
+  {
+    "id": 114,
+    "question": "What are the main responsibilities of the Data Engineer at SumUp?"
+  },
+  {
+    "id": 114,
+    "question": "What are the benefits of working at SumUp, especially in the Berlin office?"
+  },
+  {
+    "id": 114,
+    "question": "How does SumUp approach diversity and inclusion in the workplace?"
+  },
+  {
+    "id": 115,
+    "question": "What is the primary mission of Almedia's platform, Freecash.com?"
+  },
+  {
+    "id": 115,
+    "question": "What are the key responsibilities for the Senior Data Scientist at Almedia?"
+  },
+  {
+    "id": 115,
+    "question": "What skills and experience are essential for this role?"
+  },
+  {
+    "id": 115,
+    "question": "What are the benefits of working at Almedia?"
+  },
+  {
+    "id": 115,
+    "question": "How does Almedia describe its work environment and company culture?"
+  },
+  {
+    "id": 116,
+    "question": "What are the main responsibilities of the Data Engineer at Toll Collect GmbH?"
+  },
+  {
+    "id": 116,
+    "question": "Which specific skills and qualifications are required for this position?"
+  },
+  {
+    "id": 116,
+    "question": "What kind of support and benefits does Toll Collect GmbH offer to its employees?"
+  },
+  {
+    "id": 116,
+    "question": "Where is the office location for this job, and what are the working hours?"
+  },
+  {
+    "id": 116,
+    "question": "How does Toll Collect GmbH support the professional development of its employees?"
+  },
+  {
+    "id": 117,
+    "question": "What specific technologies and tools will I be working with as a Data Engineer at Kassen\u00e4rztliche Bundesvereinigung Kd\u00f6R?"
+  },
+  {
+    "id": 117,
+    "question": "How does Kassen\u00e4rztliche Bundesvereinigung Kd\u00f6R support the professional development of its employees?"
+  },
+  {
+    "id": 117,
+    "question": "What are the expectations for data analysis and reporting in this role?"
+  },
+  {
+    "id": 117,
+    "question": "Can you provide more details on the Gleitzeitmodell and mobile working flexibility mentioned in the job posting?"
+  },
+  {
+    "id": 117,
+    "question": "What are some examples of projects or tasks I would be working on as a Data Engineer at Kassen\u00e4rztliche Bundesvereinigung Kd\u00f6R?"
+  },
+  {
+    "id": 118,
+    "question": "What kind of analyses and reports will I be expected to support in creating?"
+  },
+  {
+    "id": 118,
+    "question": "Can you provide more details on the types of errors and anomalies I would be analyzing and correcting in daily processes?"
+  },
+  {
+    "id": 118,
+    "question": "How will I be contributing to the further development of data-driven processes within Toll Collect GmbH?"
+  },
+  {
+    "id": 118,
+    "question": "What specific responsibilities do I have in advising and supporting system users on operational issues?"
+  },
+  {
+    "id": 118,
+    "question": "What opportunities for further training and development does Toll Collect GmbH offer to help me progress in my career?"
+  },
+  {
+    "id": 119,
+    "question": "What are the primary responsibilities of the Senior Data Engineer at DataCamp?"
+  },
+  {
+    "id": 119,
+    "question": "How does the Senior Data Engineer contribute to data governance and security at DataCamp?"
+  },
+  {
+    "id": 119,
+    "question": "What specific tools and technologies does the Senior Data Engineer use to manage data pipelines and development processes at DataCamp?"
+  },
+  {
+    "id": 119,
+    "question": "What is the focus of the Senior Data Engineer in terms of planned work and support work at DataCamp?"
+  },
+  {
+    "id": 119,
+    "question": "How does the Senior Data Engineer collaborate with other teams and improve the team's performance at DataCamp?"
+  },
+  {
+    "id": 120,
+    "question": "What are the main responsibilities of a Decision Scientist in the Help Experience domain at Vinted?"
+  },
+  {
+    "id": 120,
+    "question": "What skills and qualifications are required for the Data Analyst / Decision Scientist position at Vinted?"
+  },
+  {
+    "id": 120,
+    "question": "How does Vinted support the mental and emotional health of its employees?"
+  },
+  {
+    "id": 120,
+    "question": "What are the benefits of working at Vinted, specifically for this role?"
+  },
+  {
+    "id": 120,
+    "question": "How does Vinted approach hybrid work for this position?"
+  },
+  {
+    "id": 121,
+    "question": "What is the main technology stack used for developing the next-gen database platform at ServiceNow?"
+  },
+  {
+    "id": 121,
+    "question": "Can you describe the collaborative environment and team structure for this role at ServiceNow?"
+  },
+  {
+    "id": 121,
+    "question": "What are the primary responsibilities in improving reliability and observability for the database platform?"
+  },
+  {
+    "id": 121,
+    "question": "What kind of development practices for performance and reliability will I learn in this role?"
+  },
+  {
+    "id": 121,
+    "question": "How does ServiceNow approach handling multiple competing priorities in a fast-paced environment?"
+  },
+  {
+    "id": 122,
+    "question": "What are the key responsibilities of this role in terms of advising and supporting customers in data solutions?"
+  },
+  {
+    "id": 122,
+    "question": "Which specific Big Data technologies and platforms are primarily used in this job?"
+  },
+  {
+    "id": 122,
+    "question": "How does this position contribute to the development and implementation of ETL/ELT pipelines and Data Warehouse/Data Lake technologies?"
+  },
+  {
+    "id": 122,
+    "question": "What programming languages and DevOps tools are essential for success in this role?"
+  },
+  {
+    "id": 122,
+    "question": "What opportunities for personal and technological development does msg systems ag offer to its employees?"
+  },
+  {
+    "id": 123,
+    "question": "What kind of technological solutions does the company msg systems ag provide?"
+  },
+  {
+    "id": 123,
+    "question": "What are the main responsibilities of a Senior Cloud Data Engineer Supply Solutions at msg systems ag?"
+  },
+  {
+    "id": 123,
+    "question": "What technologies and tools does a Senior Cloud Data Engineer Supply Solutions at msg systems ag work with?"
+  },
+  {
+    "id": 123,
+    "question": "How does msg systems ag ensure effective communication within their team?"
+  },
+  {
+    "id": 123,
+    "question": "What kind of projects will a Senior Cloud Data Engineer Supply Solutions at msg systems ag work on?"
+  },
+  {
+    "id": 124,
+    "question": "What specific responsibilities will I take on in my project role as a Junior Cloud Data Engineer at msg systems ag?"
+  },
+  {
+    "id": 124,
+    "question": "Can you provide more details on the type of consulting projects I will be involved in and how they contribute to a work-life balance?"
+  },
+  {
+    "id": 124,
+    "question": "What kind of training and certification opportunities are available for new Cloud and Big Data technologies at msg systems ag?"
+  },
+  {
+    "id": 124,
+    "question": "How does msg systems ag ensure a collaborative and innovative work environment for its employees?"
+  },
+  {
+    "id": 124,
+    "question": "What are the key technologies and tools I will be working with in the New Data Solutions department?"
+  },
+  {
+    "id": 125,
+    "question": "What are the main tasks that I will be responsible for as a (Senior) Consultant Data Scientist - Strategy and Transactions at EY?"
+  },
+  {
+    "id": 125,
+    "question": "What kind of companies will I be advising as a (Senior) Consultant Data Scientist - Strategy and Transactions at EY?"
+  },
+  {
+    "id": 125,
+    "question": "How does EY support my personal and professional growth as a (Senior) Consultant Data Scientist - Strategy and Transactions?"
+  },
+  {
+    "id": 125,
+    "question": "What kind of clients or projects can I expect to work on as a (Senior) Consultant Data Scientist - Strategy and Transactions at EY?"
+  },
+  {
+    "id": 125,
+    "question": "What kind of training and development opportunities does EY offer to (Senior) Consultant Data Scientists - Strategy and Transactions?"
+  },
+  {
+    "id": 126,
+    "question": "What are the specific responsibilities of the Data Engineer role at Toll Collect GmbH?"
+  },
+  {
+    "id": 126,
+    "question": "What technical skills are required for this position, particularly in terms of software and database management?"
+  },
+  {
+    "id": 126,
+    "question": "What are the benefits and social contributions provided by Toll Collect GmbH to its employees?"
+  },
+  {
+    "id": 126,
+    "question": "Where is the job located and what are the transport facilities available?"
+  },
+  {
+    "id": 126,
+    "question": "What educational background and professional experience are expected from the candidates applying for this job?"
+  },
+  {
+    "id": 127,
+    "question": "What specific roles does the data scientist engineer at Stadler Signalling Deutschland GmbH play in developing and utilizing algorithms?"
+  },
+  {
+    "id": 127,
+    "question": "How does the position emphasize the importance of data visualization and reporting in its daily responsibilities?"
+  },
+  {
+    "id": 127,
+    "question": "In what ways does this role require collaboration with developers and technical experts?"
+  },
+  {
+    "id": 127,
+    "question": "What is the significance of regular business trips to Berlin for this position?"
+  },
+  {
+    "id": 127,
+    "question": "How does the job involve the application of machine learning techniques in its tasks?"
+  },
+  {
+    "id": 128,
+    "question": "What are the main responsibilities of the Data Scientist Engineer at Stadler Signalling Deutschland GmbH?"
+  },
+  {
+    "id": 128,
+    "question": "Which skills are essential for success in this position?"
+  },
+  {
+    "id": 128,
+    "question": "What is the expected level of proficiency in German and English for this role?"
+  },
+  {
+    "id": 128,
+    "question": "Where are the work locations for this job?"
+  },
+  {
+    "id": 128,
+    "question": "What kind of projects will the Data Scientist Engineer be involved in?"
+  },
+  {
+    "id": 129,
+    "question": "What are the main responsibilities of the (Senior) Data Platform Engineer II - Java at Conductor LLC?"
+  },
+  {
+    "id": 129,
+    "question": "What skills and experiences are required for this position?"
+  },
+  {
+    "id": 129,
+    "question": "What are the benefits offered by Conductor LLC to its employees?"
+  },
+  {
+    "id": 129,
+    "question": "What are the work locations for this job?"
+  },
+  {
+    "id": 129,
+    "question": "How can I apply for this position?"
+  },
+  {
+    "id": 130,
+    "question": "What are the main tasks of a Data Engineer at Toll Collect GmbH?"
+  },
+  {
+    "id": 130,
+    "question": "What technologies does Toll Collect GmbH use for data engineering?"
+  },
+  {
+    "id": 130,
+    "question": "What kind of team will I be working with at Toll Collect GmbH?"
+  },
+  {
+    "id": 130,
+    "question": "What are the benefits offered by Toll Collect GmbH for this position?"
+  },
+  {
+    "id": 130,
+    "question": "Where is the job location for this Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 131,
+    "question": "What is the role of a Data Scientist at Wooga in Berlin?"
+  },
+  {
+    "id": 131,
+    "question": "What qualifications and skills are required for the Senior Data Scientist position at Wooga?"
+  },
+  {
+    "id": 131,
+    "question": "What benefits does Wooga offer to its employees, particularly those in the Data Science team?"
+  },
+  {
+    "id": 131,
+    "question": "What kind of projects will the Senior Data Scientist be involved in at Wooga?"
+  },
+  {
+    "id": 131,
+    "question": "How does Wooga support the professional and personal development of its employees?"
+  },
+  {
+    "id": 132,
+    "question": "What kind of tasks will I be responsible for as a Data Engineer at Toll Collect GmbH?"
+  },
+  {
+    "id": 132,
+    "question": "Can you describe the team I would be working with at Toll Collect GmbH?"
+  },
+  {
+    "id": 132,
+    "question": "What are the key skills and qualifications required for the Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 132,
+    "question": "What kind of development opportunities does Toll Collect GmbH offer to its employees?"
+  },
+  {
+    "id": 132,
+    "question": "What are the benefits and social contributions provided by Toll Collect GmbH?"
+  },
+  {
+    "id": 133,
+    "question": "Why is this position only temporary (due to parental leave substitution)?"
+  },
+  {
+    "id": 133,
+    "question": "What specific types of data models and flows will I be responsible for developing?"
+  },
+  {
+    "id": 133,
+    "question": "Can you provide examples of the types of analyses and reports I will be supporting?"
+  },
+  {
+    "id": 133,
+    "question": "What are some examples of cross-departmental projects I might work on?"
+  },
+  {
+    "id": 133,
+    "question": "What are the key operational issues faced by system users that I will be advising on?"
+  },
+  {
+    "id": 134,
+    "question": "What technical skills in virtualization are required for this position?"
+  },
+  {
+    "id": 134,
+    "question": "What kind of projects will I be involved in related to Data Center Technologies at Airbus?"
+  },
+  {
+    "id": 134,
+    "question": "How does the position support Airbus Defence and Space's Secure Land Communications program?"
+  },
+  {
+    "id": 134,
+    "question": "What are the responsibilities in terms of global design for Data Center solutions?"
+  },
+  {
+    "id": 134,
+    "question": "How does the job involve working with Vertrieb, Marketing, and Bid Management teams?"
+  },
+  {
+    "id": 135,
+    "question": "What kind of support does Toll Collect GmbH provide for the professional development of its employees?"
+  },
+  {
+    "id": 135,
+    "question": "Which specific responsibilities will the Data Engineer have in terms of data models and data flows?"
+  },
+  {
+    "id": 135,
+    "question": "What are the key technical skills required for the Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 135,
+    "question": "How does the work location of the Data Engineer position at Toll Collect GmbH benefit the employee?"
+  },
+  {
+    "id": 135,
+    "question": "What kind of team structure and working environment can the Data Engineer expect at Toll Collect GmbH?"
+  },
+  {
+    "id": 136,
+    "question": "What responsibilities are involved in the Data Solution Engineer role at FUNKE MEDIENGRUPPE?"
+  },
+  {
+    "id": 136,
+    "question": "What is the company's approach to employee development and work-life balance?"
+  },
+  {
+    "id": 136,
+    "question": "Which technologies and tools does the data engineering team at FUNKE MEDIENGRUPPE use?"
+  },
+  {
+    "id": 136,
+    "question": "What are the specific requirements and qualifications for the Data Solution Engineer position?"
+  },
+  {
+    "id": 136,
+    "question": "What benefits does FUNKE MEDIENGRUPPE offer to its employees?"
+  },
+  {
+    "id": 137,
+    "question": "What technologies will I use as a Data Engineer at re:cap?"
+  },
+  {
+    "id": 137,
+    "question": "How does re:cap ensure the well-being of its employees?"
+  },
+  {
+    "id": 137,
+    "question": "What is the company culture like at re:cap?"
+  },
+  {
+    "id": 137,
+    "question": "What are the steps in the hiring process at re:cap?"
+  },
+  {
+    "id": 137,
+    "question": "How does re:cap prioritize work-life balance for its employees?"
+  },
+  {
+    "id": 138,
+    "question": "What are the main responsibilities for the Senior / Lead Data Engineer position at Hive Technologies GmbH?"
+  },
+  {
+    "id": 138,
+    "question": "How does Hive Technologies GmbH support the well-being of its employees?"
+  },
+  {
+    "id": 138,
+    "question": "What kind of experience is required with data warehousing for this position?"
+  },
+  {
+    "id": 138,
+    "question": "Can you describe the work culture at Hive Technologies GmbH?"
+  },
+  {
+    "id": 138,
+    "question": "What are the key skills and qualifications needed for this role?"
+  },
+  {
+    "id": 139,
+    "question": "What specific skills are required for the Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 139,
+    "question": "What are the main responsibilities of this Data Engineer role?"
+  },
+  {
+    "id": 139,
+    "question": "What are the benefits provided by Toll Collect GmbH for this position?"
+  },
+  {
+    "id": 139,
+    "question": "What is the location of the job and what are the working hours?"
+  },
+  {
+    "id": 139,
+    "question": "What qualifications and experience are necessary to be considered for this role?"
+  },
+  {
+    "id": 140,
+    "question": "What are the key responsibilities of the Senior Data Engineer role at Flywheel Digital?"
+  },
+  {
+    "id": 140,
+    "question": "What technologies and tools will I be working with as a Senior Data Engineer at Flywheel Digital?"
+  },
+  {
+    "id": 140,
+    "question": "What kind of experience does Flywheel Digital expect from a candidate for the Senior Data Engineer position?"
+  },
+  {
+    "id": 140,
+    "question": "What kind of work culture and benefits does Flywheel Digital offer to its employees?"
+  },
+  {
+    "id": 140,
+    "question": "What is the interview process like for the Senior Data Engineer role at Flywheel Digital?"
+  },
+  {
+    "id": 141,
+    "question": "What is the primary objective of this role at SAP?"
+  },
+  {
+    "id": 141,
+    "question": "What qualifications are required for the Senior/Expert Data Privacy Engineer position?"
+  },
+  {
+    "id": 141,
+    "question": "How does SAP ensure data privacy and integrity in their Foundation Models?"
+  },
+  {
+    "id": 141,
+    "question": "What type of experience is needed for developing and deploying secure ML solutions?"
+  },
+  {
+    "id": 141,
+    "question": "Why is SAP focusing on adapting Foundation Models to tabular data in business AI?"
+  },
+  {
+    "id": 142,
+    "question": "What is the primary goal of Knowunity as Europe's fastest growing EdTech app?"
+  },
+  {
+    "id": 142,
+    "question": "How many students does Knowunity currently serve across Europe and the U.S.?"
+  },
+  {
+    "id": 142,
+    "question": "What kind of events does Knowunity offer to its employees?"
+  },
+  {
+    "id": 142,
+    "question": "What is the main responsibility of the Data Scientist (Recommendations) at Knowunity?"
+  },
+  {
+    "id": 142,
+    "question": "What kind of experience is required for the Data Scientist (Recommendations) position at Knowunity?"
+  },
+  {
+    "id": 143,
+    "question": "What specific Generative AI techniques will I be working with in this role at Contiamo?"
+  },
+  {
+    "id": 143,
+    "question": "Can you provide examples of the type of clients I would be working with at Contiamo?"
+  },
+  {
+    "id": 143,
+    "question": "How does Contiamo ensure that their team stays up-to-date with the latest advancements in Generative AI?"
+  },
+  {
+    "id": 143,
+    "question": "What are the main responsibilities in terms of designing and optimizing data pipelines for this position?"
+  },
+  {
+    "id": 143,
+    "question": "What kind of collaborative projects can I expect to work on with the project management lead and clients at Contiamo?"
+  },
+  {
+    "id": 144,
+    "question": "What are the main technologies and tools used by the Profil Data Engineer at CANCOM SE?"
+  },
+  {
+    "id": 144,
+    "question": "What type of data infrastructure will the Profil Data Engineer at CANCOM SE be responsible for building?"
+  },
+  {
+    "id": 144,
+    "question": "What specific skills in data architecture and data pipelines are required for this position at CANCOM SE?"
+  },
+  {
+    "id": 144,
+    "question": "What kind of development and support will the Profil Data Engineer provide for analysis and reporting solutions at CANCOM SE?"
+  },
+  {
+    "id": 144,
+    "question": "What are the language requirements and other benefits offered for this role at CANCOM SE?"
+  },
+  {
+    "id": 145,
+    "question": "What kind of projects will I be working on as a Data Engineer at Legalhero GmbH?"
+  },
+  {
+    "id": 145,
+    "question": "What are the expectations regarding my experience with AWS, Azure, and Google Cloud Platform?"
+  },
+  {
+    "id": 145,
+    "question": "Can you provide more details about the team I will be joining at Legalhero GmbH and how I will be contributing to the company's goals?"
+  },
+  {
+    "id": 145,
+    "question": "How does Legalhero GmbH ensure a fair and inclusive work environment for its employees?"
+  },
+  {
+    "id": 145,
+    "question": "What opportunities for career growth and development does Legalhero GmbH offer for data engineers?"
+  },
+  {
+    "id": 146,
+    "question": "What are the key responsibilities of a Customer Engineer, Data Analytics at Google Cloud?"
+  },
+  {
+    "id": 146,
+    "question": "What are the minimum qualifications required for this position?"
+  },
+  {
+    "id": 146,
+    "question": "What are the preferred qualifications for this role?"
+  },
+  {
+    "id": 146,
+    "question": "Which locations are available for this job?"
+  },
+  {
+    "id": 146,
+    "question": "What technologies and skills are highlighted for this job?"
+  },
+  {
+    "id": 147,
+    "question": "What are the specific responsibilities of the Data Engineer role at Toll Collect GmbH?"
+  },
+  {
+    "id": 147,
+    "question": "What technologies and tools are required for this position, particularly in terms of database management and operating systems?"
+  },
+  {
+    "id": 147,
+    "question": "What kind of projects or processes will the Data Engineer be involved in, especially in terms of data modeling and workflow development?"
+  },
+  {
+    "id": 147,
+    "question": "How does Toll Collect GmbH support the professional and personal development of its employees, specifically for the Data Engineer position?"
+  },
+  {
+    "id": 147,
+    "question": "What are the benefits and perks offered by Toll Collect GmbH, and how do they contribute to the overall work environment and employee satisfaction?"
+  },
+  {
+    "id": 148,
+    "question": "What specific skills and tools are required for this role?"
+  },
+  {
+    "id": 148,
+    "question": "Can you describe the type of projects a Data Scientist at 7Learnings would work on?"
+  },
+  {
+    "id": 148,
+    "question": "What kind of work environment and company culture does 7Learnings offer?"
+  },
+  {
+    "id": 148,
+    "question": "How does 7Learnings' software help online retailers with price and marketing optimization?"
+  },
+  {
+    "id": 148,
+    "question": "What are the requirements for the German language proficiency for this position?"
+  },
+  {
+    "id": 149,
+    "question": "What specific hardware and supplies will I be responsible for assuring sufficient quantities of?"
+  },
+  {
+    "id": 149,
+    "question": "How will I be expected to document findings from troubleshooting data center hardware issues?"
+  },
+  {
+    "id": 149,
+    "question": "What does the management of mobile devices in the cloud entail in this role?"
+  },
+  {
+    "id": 149,
+    "question": "Can you elaborate on the nature of experiments with new hardware and software configurations I will participate in?"
+  },
+  {
+    "id": 149,
+    "question": "What are the main challenges in improving the stability of mobile devices in a Data Center environment that I will work on with the Operations team and Developers?"
+  },
+  {
+    "id": 150,
+    "question": "What are the specific responsibilities of the Data Engineer role at Toll Collect GmbH?"
+  },
+  {
+    "id": 150,
+    "question": "What kind of support and advice will I provide to system users in this position?"
+  },
+  {
+    "id": 150,
+    "question": "What are the key technologies and tools I will be working with in this role?"
+  },
+  {
+    "id": 150,
+    "question": "What qualifications and experience are required for the Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 150,
+    "question": "What benefits and development opportunities does Toll Collect GmbH offer to its employees?"
+  },
+  {
+    "id": 152,
+    "question": "What kind of projects will I be leading as a Principal Data Scientist at Almedia?"
+  },
+  {
+    "id": 152,
+    "question": "Can you provide more details about the type of machine learning models I will be developing and deploying?"
+  },
+  {
+    "id": 152,
+    "question": "How does Almedia ensure continuous learning and development opportunities for its employees?"
+  },
+  {
+    "id": 152,
+    "question": "What are the expectations regarding communication skills and presenting complex findings in this role?"
+  },
+  {
+    "id": 152,
+    "question": "Can you elaborate on the preference for candidates with backgrounds in ad tech, gaming, or marketing?"
+  },
+  {
+    "id": 153,
+    "question": "What skills and qualifications are required for the Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 153,
+    "question": "Can you describe the team and work environment at Toll Collect GmbH?"
+  },
+  {
+    "id": 153,
+    "question": "What are the specific responsibilities of the Data Engineer role at Toll Collect GmbH?"
+  },
+  {
+    "id": 153,
+    "question": "What benefits and social contributions does Toll Collect GmbH offer to its employees?"
+  },
+  {
+    "id": 153,
+    "question": "What is the process for submitting an application for the Data Engineer position at Toll Collect GmbH?"
+  },
+  {
+    "id": 154,
+    "question": "What specific responsibilities does the Data Engineer have in terms of data models and data flows at Toll Collect GmbH?"
+  },
+  {
+    "id": 154,
+    "question": "How does the role involve working across different departments and teams within the company?"
+  },
+  {
+    "id": 154,
+    "question": "What kind of support and consulting does the Data Engineer provide to system users regarding operational issues?"
+  },
+  {
+    "id": 154,
+    "question": "What are the expectations regarding the Data Engineer's proficiency with IBM Infosphere Datastage and IBM Cognos Analytics?"
+  },
+  {
+    "id": 154,
+    "question": "How does the company support the professional and personal development of its employees, particularly in the context of this job role?"
+  },
+  {
+    "id": 155,
+    "question": "What are the main responsibilities of the Data Engineer at Randstad Deutschland?"
+  },
+  {
+    "id": 155,
+    "question": "What qualifications and skills are required for the Data Engineer position?"
+  },
+  {
+    "id": 155,
+    "question": "Where is the job located and what company is offering it?"
+  },
+  {
+    "id": 155,
+    "question": "What benefits does Randstad Deutschland offer to its employees?"
+  },
+  {
+    "id": 155,
+    "question": "What is the focus of the company that is hiring for this Data Engineer position?"
+  },
+  {
+    "id": 156,
+    "question": "What specific Big Data processing tools and technologies does Xcede use?"
+  },
+  {
+    "id": 156,
+    "question": "How does Xcede incorporate machine learning techniques in their cross-functional data teams?"
+  },
+  {
+    "id": 156,
+    "question": "What types of projects would I be working on within the agile project teams at Xcede?"
+  },
+  {
+    "id": 156,
+    "question": "What are the main responsibilities for a Senior Data Engineer at Xcede?"
+  },
+  {
+    "id": 156,
+    "question": "What additional benefits does Xcede offer besides the market leading salary package?"
+  },
+  {
+    "id": 157,
+    "question": "What are the main responsibilities of the Data Scientist Fraud Prevention role at DKB AG?"
+  },
+  {
+    "id": 157,
+    "question": "What kind of models will I be developing in this role and how will they help protect customers from fraudulent transactions?"
+  },
+  {
+    "id": 157,
+    "question": "What are the preferred tools and technologies I will be working with in this position, such as Python, SQL, AWS, GIT and SAS?"
+  },
+  {
+    "id": 157,
+    "question": "What are the qualifications and experience required for this job, including educational background and years of experience?"
+  },
+  {
+    "id": 157,
+    "question": "What benefits and perks are offered by DKB AG for this position, such as flexible work arrangements, modern technology, and professional development opportunities?"
+  },
+  {
+    "id": 158,
+    "question": "What are the primary responsibilities of the Working Student Software Engineer (Data Scraping) at Almedia?"
+  },
+  {
+    "id": 158,
+    "question": "How does Almedia ensure adherence to legal and ethical guidelines in web scraping and data privacy?"
+  },
+  {
+    "id": 158,
+    "question": "What skills and qualifications are required for the Working Student Software Engineer (Data Scraping) role at Almedia?"
+  },
+  {
+    "id": 158,
+    "question": "What opportunities for professional growth and development does Almedia offer to its employees?"
+  },
+  {
+    "id": 158,
+    "question": "What makes Almedia's work environment and company culture unique?"
+  },
+  {
+    "id": 159,
+    "question": "What specific experience with GCP is required for the Senior Data Engineer position at BMG?"
+  },
+  {
+    "id": 159,
+    "question": "How does BMG ensure data quality and accuracy in their data pipelines?"
+  },
+  {
+    "id": 159,
+    "question": "What are the main responsibilities regarding the management of BMG's data platform?"
+  },
+  {
+    "id": 159,
+    "question": "How does the role of Senior Data Engineer at BMG contribute to the optimization of cloud costs?"
+  },
+  {
+    "id": 159,
+    "question": "What kind of training and career development opportunities does BMG provide to its employees?"
+  },
+  {
+    "id": 160,
+    "question": "What are the primary responsibilities of the Lead Data Engineer at Almedia?"
+  },
+  {
+    "id": 160,
+    "question": "What technologies and platforms does the Lead Data Engineer at Almedia need to be proficient in?"
+  },
+  {
+    "id": 160,
+    "question": "How does the role of the Lead Data Engineer at Almedia contribute to the company's growth and operations?"
+  },
+  {
+    "id": 160,
+    "question": "What are the key requirements for the Lead Data Engineer position at Almedia?"
+  },
+  {
+    "id": 160,
+    "question": "What benefits does Almedia offer to the Lead Data Engineer?"
+  },
+  {
+    "id": 161,
+    "question": "What is the primary focus of the Data Movement Team at SumUp?"
+  },
+  {
+    "id": 161,
+    "question": "What specific technologies and tools will the Senior Software Engineer be working with in the Data Movement Team?"
+  },
+  {
+    "id": 161,
+    "question": "How does SumUp support the professional development of its employees, particularly in the context of the Data Movement Team?"
+  },
+  {
+    "id": 161,
+    "question": "What are the key responsibilities of the Senior Software Engineer in the Data Movement Team?"
+  },
+  {
+    "id": 161,
+    "question": "How does SumUp emphasize diversity and inclusion within its workplace, and how does this impact the role of the Senior Software Engineer?"
+  },
+  {
+    "id": 162,
+    "question": "What kind of insurance solutions does dentolo offer to its customers?"
+  },
+  {
+    "id": 162,
+    "question": "What are the benefits of working at dentolo Deutschland GmbH?"
+  },
+  {
+    "id": 162,
+    "question": "What are the main responsibilities of the Data Engineer role at dentolo?"
+  },
+  {
+    "id": 162,
+    "question": "What kind of experience and skills are required for the Data Engineer position at dentolo?"
+  },
+  {
+    "id": 162,
+    "question": "What is the location of the dentolo office and what is the work environment like?"
+  },
+  {
+    "id": 163,
+    "question": "What are the preferred qualifications for the (Senior) Data Scientist position at ING Deutschland in the Credit Risk & Risk Models department?"
+  },
+  {
+    "id": 163,
+    "question": "Can you explain the responsibilities of the (Senior) Data Scientist \u2013 Credit Risk & Risk Models at ING Deutschland?"
+  },
+  {
+    "id": 163,
+    "question": "What benefits does ING Deutschland offer to the (Senior) Data Scientist \u2013 Credit Risk & Risk Models?"
+  },
+  {
+    "id": 163,
+    "question": "What specific skills and qualifications does ING Deutschland seek in candidates for the (Senior) Data Scientist \u2013 Credit Risk & Risk Models position?"
+  },
+  {
+    "id": 163,
+    "question": "How does ING Deutschland ensure compliance with group policies and requirements in relation to risk models?"
+  },
+  {
+    "id": 164,
+    "question": "What are the key responsibilities of a Senior Data Engineer - Data Warehouse/Analytics at Parloa?"
+  },
+  {
+    "id": 164,
+    "question": "What technical skills and experience are required for this position?"
+  },
+  {
+    "id": 164,
+    "question": "What technologies are included in Parloa's data tech stack?"
+  },
+  {
+    "id": 164,
+    "question": "How does Parloa support the professional growth of its employees?"
+  },
+  {
+    "id": 164,
+    "question": "What can you tell me about Parloa's company culture and work environment?"
+  },
+  {
+    "id": 165,
+    "question": "What kind of machine learning algorithms does N26 use for marketing data analysis?"
+  },
+  {
+    "id": 165,
+    "question": "Can you describe a successful machine learning project you have delivered end-to-end?"
+  },
+  {
+    "id": 165,
+    "question": "How do you approach translating complex data into actionable insights for non-technical stakeholders?"
+  },
+  {
+    "id": 165,
+    "question": "What opportunities for personalization and targeting have you identified through customer data analysis?"
+  },
+  {
+    "id": 165,
+    "question": "How does N26 support professional development and career growth for its employees?"
+  },
+  {
+    "id": 166,
+    "question": "What are the main responsibilities of the Data Engineer at Toll Collect GmbH?"
+  },
+  {
+    "id": 166,
+    "question": "What are the required skills and qualifications for the Data Engineer position?"
+  },
+  {
+    "id": 166,
+    "question": "What benefits does Toll Collect GmbH offer to its employees?"
+  },
+  {
+    "id": 166,
+    "question": "Where is the job located and what are the work locations for this position?"
+  },
+  {
+    "id": 166,
+    "question": "Who is the contact person for this job application and how can they be reached?"
+  },
+  {
+    "id": 167,
+    "question": "What are the main responsibilities of the Data Engineer at Project A Ventures?"
+  },
+  {
+    "id": 167,
+    "question": "How does the company ensure easy access to data for all people and IT systems in the organization?"
+  },
+  {
+    "id": 167,
+    "question": "What opportunities for career growth does Project A Ventures offer to its employees?"
+  },
+  {
+    "id": 167,
+    "question": "What skills and qualifications are required for the Data Engineer position at Project A Ventures?"
+  },
+  {
+    "id": 167,
+    "question": "What benefits and perks does Project A Ventures provide to its employees?"
   }
 ]
