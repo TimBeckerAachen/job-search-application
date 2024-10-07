@@ -53,7 +53,8 @@ async def handle_feedback(request: FeedbackRequest) -> Dict[str, str]:
     )
 
     return {
-        "message": f"Feedback received for conversation {request.conversation_id}: {request.feedback}"
+        "message": f"Thank you for your feedback concerning"
+                   f" conversation {request.conversation_id}: {request.feedback}"
     }
 
 
