@@ -229,25 +229,27 @@ detailed job description: {description}
 
 Performance simple prompt:
 
-         relevance  Count  Percentage
-0         RELEVANT     32        64.0
-1  PARTLY_RELEVANT     16        32.0
-2     NON_RELEVANT      2         4.0
+| Relevance        | Count | Percentage |
+|------------------|-------|------------|
+| RELEVANT         | 32    | 64.0%      |
+| PARTLY_RELEVANT  | 16    | 32.0%      |
+| NON_RELEVANT     | 2     | 4.0%       |
 
 Performance prompt improved by ChatGPT:
 
-         relevance  Count  Percentage
-0         RELEVANT     33   70.212766
-1  PARTLY_RELEVANT      9   19.148936
-2     NON_RELEVANT      5   10.638298
+| Relevance        | Count | Percentage |
+|------------------|-------|------------|
+| RELEVANT         | 33    | 70.2%      |
+| PARTLY_RELEVANT  | 9     | 19.2%      |
+| NON_RELEVANT     | 5     | 10.6%      |
 
 Performance prompt improved by Claude:
 
-         relevance  Count  Percentage
-0         RELEVANT     30        60.0
-1  PARTLY_RELEVANT     16        32.0
-2     NON_RELEVANT      4         8.0
-
+| Relevance        | Count | Percentage |
+|------------------|-------|------------|
+| RELEVANT         | 30    | 60.0%      |
+| PARTLY_RELEVANT  | 16    | 32.0%      |
+| NON_RELEVANT     | 4     | 8.0%       |
 
 For the evaluation I took only 50 questions, because it took very long. The experiments can be found 
 in the notebook [`rag_evaluation`](notebooks/rag_evaluation.ipynb).
