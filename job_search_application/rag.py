@@ -11,29 +11,33 @@ index = ingest.load_index()
 
 def search(query):
     boost = {
-      'title': 1.24,
-      'company': 1.2,
-      'locations': 2.91,
-      'skills': 1.05,
-      'posted_at': 2.09,
-      'is_remote': 0.83,
-      'snippet_fragments': 0.56,
-      'description': 2.18
+      'title': 2.37,
+      'company': 2.19,
+      'locations': 0.22,
+      'skills': 1.71,
+      'posted_at': 1.77,
+      'is_remote': 0.29,
+      'snippet_fragments': 1.96,
+      'description': 0.08
     }
 
     results = index.search(
         query=query,
         filter_dict={},
         boost_dict=boost,
-        num_results=3
+        num_results=5
     )
 
     return results
 
 
 prompt_template = """
-You're an expert application coach. Answer the QUESTION based on the CONTEXT from the job database.
-Use only the facts from the CONTEXT when answering the QUESTION.
+You're an expert job application coach. Answer the QUESTION based on the CONTEXT provided from the job database, using only the information available. 
+Avoid making assumptions, and if necessary information is missing, acknowledge it.
+
+Please respond concisely and focus on key details relevant to the QUESTION. Structure your response to be user-friendly and actionable.
+
+If the CONTEXT lacks enough information, respond with: "The job posting does not provide enough information to answer your question directly."
 
 QUESTION: {question}
 
@@ -44,11 +48,11 @@ CONTEXT:
 entry_template = """
 job_title: {title}
 company_name: {company}
-work locations: {locations}
-highlighted skills: {skills}
-date of posting: {posted_at}
-short job summary: {snippet_fragments}
-detailed job description: {description}
+work_locations: {locations}  # List all locations where the position is based
+highlighted_skills: {skills}  # Key skills mentioned in the job posting
+posting_date: {posted_at}  # When was this job posted
+short_summary: {snippet_fragments}  # Brief summary or main highlights of the job
+full_description: {description}  # Complete details and requirements for the position
 """.strip()
 
 

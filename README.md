@@ -146,20 +146,96 @@ The python code is organised as a python package in the [`job_search_application
 ### Retrieval evaluation
 
 Unfortunately, the search was a bit challenging, since many questions are similar and the quality of the
-questions was limited. The found parameters for minsearch are:
+questions created by the LLM was limited. I changed jamba-1.5-mini to jamba-1.5-large which helped a little bit.
 
+I decided to go for `num_results=5` and to optimise for `hit_rate`. I believe it will be important that the job is
+within the hits, it does not have to be the first. I do not want to have too many results in the prompt, because
+the job description is quite long which will lead to an issue.
+
+
+The evaluation of the test and validation data showed that the search parameters are overfitted on the validation
+data. However, the overall performance is still slightly better. This part will require some future improvement.
+
+```pyhon
+def minsearch_improved(query):
     boost = {
-      'title': 1.24,
-      'company': 1.2,
-      'locations': 2.91,
-      'skills': 1.05,
-      'posted_at': 2.09,
-      'is_remote': 0.83,
-      'snippet_fragments': 0.56,
-      'description': 2.18
+      'title': 2.37,
+      'company': 2.19,
+      'locations': 0.22,
+      'skills': 1.71,
+      'posted_at': 1.77,
+      'is_remote': 0.29,
+      'snippet_fragments': 1.96,
+      'description': 0.08
     }
 
+    results = index.search(
+        query=query,
+        filter_dict={},
+        boost_dict=boost,
+        num_results=5
+    )
+
+    return results
+```
+
+The experiments can be found in the notebook [`retrival_evaluation`](notebooks/retrival_evaluation.ipynb).
+
 ### RAG evaluation
+
+For this project I compared 3 different prompts. The first, I created myself similar to what was used in the course.
+For the second and third, I asked ChatGPT and Claude to improve the prompt.
+
+I asked the LLM this question to improve the prompt:
+
+```
+Act as an expert prompt engineer. How would you improve this prompt which is meant for a RAG application for looking at job postings and helping job seekers?
+
+prompt_template = """
+You're an expert application coach. Answer the QUESTION based on the CONTEXT from the job database.
+Use only the facts from the CONTEXT when answering the QUESTION.
+
+QUESTION: {question}
+
+CONTEXT:
+{context}
+""".strip()
+
+entry_template = """
+job_title: {title}
+company_name: {company}
+work locations: {locations}
+highlighted skills: {skills}
+date of posting: {posted_at}
+short job summary: {snippet_fragments}
+detailed job description: {description}
+""".strip()
+```
+
+Performance simple prompt:
+
+         relevance  Count  Percentage
+0         RELEVANT     32        64.0
+1  PARTLY_RELEVANT     16        32.0
+2     NON_RELEVANT      2         4.0
+
+Performance prompt improved by ChatGPT:
+
+         relevance  Count  Percentage
+0         RELEVANT     33   70.212766
+1  PARTLY_RELEVANT      9   19.148936
+2     NON_RELEVANT      5   10.638298
+
+Performance prompt improved by Claude:
+
+         relevance  Count  Percentage
+0         RELEVANT     30        60.0
+1  PARTLY_RELEVANT     16        32.0
+2     NON_RELEVANT      4         8.0
+
+
+For the evaluation I took only 50 questions, because it took very long. The experiments can be found 
+in the notebook [`rag_evaluation`](notebooks/rag_evaluation.ipynb).
 
 ## Monitoring
 
