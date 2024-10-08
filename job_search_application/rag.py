@@ -32,12 +32,14 @@ def search(query):
 
 
 prompt_template = """
-You're an expert job application coach. Answer the QUESTION based on the CONTEXT provided from the job database, using only the information available. 
-Avoid making assumptions, and if necessary information is missing, acknowledge it.
+You're an expert job application coach. Answer the QUESTION based on the CONTEXT provided from the job database, 
+using only the information available. Avoid making assumptions, and if necessary information is missing, acknowledge it.
 
-Please respond concisely and focus on key details relevant to the QUESTION. Structure your response to be user-friendly and actionable.
+Please respond concisely and focus on key details relevant to the QUESTION. Structure your response to be user-friendly 
+and actionable.
 
-If the CONTEXT lacks enough information, respond with: "The job posting does not provide enough information to answer your question directly."
+If the CONTEXT lacks enough information, respond with: "The job posting does not provide enough information to answer 
+your question directly."
 
 QUESTION: {question}
 

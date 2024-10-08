@@ -130,6 +130,21 @@ Which should result in:
 }
 ```
 
+### Using basic fasthtml UI
+
+You can also use a very simple chat interface which is still experimental. Just type in
+
+```bash
+python job_search_application/chat_interface.py
+```
+
+after running fastAPI. You should be able to navigate to [`http://localhost:5001/`](http://localhost:5001/)
+and see something similar to this:
+
+![fastHTML interface](./images/example_chat.png)
+
+This will be further improved in the future.
+
 ## Code
 
 The python code is organised as a python package in the [`job_search_application'](job_search_application) folder:
