@@ -39,9 +39,10 @@ You can find an initial small dataset here: [`data/job_data.json`](data/job_data
 - Python 3.12
 - Docker and Docker Compose for containerization
 - [Minsearch](https://github.com/alexeygrigorev/minsearch) for full-text search
-- FastAPI as API interface (see [Background](#background) for more information on FastAPI)
+- FastAPI as API interface (see [Background FastAPI](#FastAPI) for more information on FastAPI)
 - Grafana for monitoring and PostgreSQL as the backend for it
-- AI21Studio as an LLM (see [Background](#background) for more information on AI21Studio)
+- AI21Studio as an LLM (see [Background AI21Studio](#AI21Studio) for more information on AI21Studio)
+- fastHTML as simple UI (see [Background fastHTML](#fastHTML) for more information on fastHTML)
 
 ## Preparation
 
@@ -130,7 +131,7 @@ Which should result in:
 }
 ```
 
-### Using basic fasthtml UI
+### Using basic fastHTML UI
 
 You can also use a very simple chat interface which is still experimental. Just type in
 
@@ -315,3 +316,13 @@ if you are familiar with OpenAI. In addition, they provide you with 10$ of free 
 when signing up.
 
 You can find more information on the [official AI21Studio website](https://studio.ai21.com/).
+
+### FastHTML
+
+FastHTML is a lightweight and efficient Python package designed for parsing and manipulating HTML 
+documents with ease. It provides a simple interface to extract, modify, and analyze HTML content, 
+making it an excellent choice for web scraping, data extraction, or any task involving HTML processing. 
+FastHTML is optimized for speed and minimal memory usage, ensuring quick parsing even with large HTML files.
+
+For more detailed information and usage examples, please refer to the official 
+[FastHTML documentation](https://fastht.ml/).
