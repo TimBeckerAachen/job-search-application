@@ -141,7 +141,7 @@ python job_search_application/chat_interface.py
 after running fastAPI. You should be able to navigate to [`http://localhost:5001/`](http://localhost:5001/)
 and see something similar to this:
 
-![fastHTML interface](./images/example_chat.png)
+![fastHTML interface](./images/example_chat_job_search_application.png)
 
 This will be further improved in the future.
 
